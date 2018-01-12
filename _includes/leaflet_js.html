@@ -1,0 +1,17 @@
+<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+    integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+    crossorigin=""></script>
+<script>
+  let map = L.map("map");
+  L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+    subdomains: 'abcd',
+    maxZoom: 19
+  }).addTo(map);
+  const nyu = [40.73046499853991, -73.99250799849149];
+  map.setView(nyu, 14);
+  {% for location in site.data.locations %}
+    let popupContent = "<h3>{{ location.name }}</h3><ul><li><a href='{{ location.link }}'>Web link</a></li><li><a href='{{ location.wikipedia-link }}'>Wikipedia link</a></li></ul>";
+    L.marker([{{ location.latitude }}, {{ location.longitude }}]).bindPopup(popupContent).addTo(map);
+  {% endfor %}
+</script>

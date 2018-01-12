@@ -1,1 +1,14 @@
-theme: jekyll-theme-tactile
+baseurl: /downtown-archaeologies
+name: Downtown Archæologies
+markdown: kramdown
+defaults: 
+  -
+    scope: 
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope: 
+      path: "_posts"
+    values:
+      layout: "post"
