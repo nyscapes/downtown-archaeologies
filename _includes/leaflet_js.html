@@ -13,9 +13,9 @@
   let popupContent
   let artifacts = [];// L.layerGroup();
   {% for artifact in site.artifacts %}
-    popupContent = "<h4>{{ artifact.title }}</h4><ul><li><a href='{{ artifact.link }}'>Web link</a></li><li><a href='{{ artifact.wikipedia-link }}'>Wikipedia link</a></li></ul>";
-  const {{ artifact.slug }} = L.marker([{{ artifact.latitude }}, {{ artifact.longitude }}], { name: "{{ artifact.title }}" }).bindPopup(popupContent);
-  artifacts.push({{ artifact.slug }});
+    popupContent = "<h4>{{ artifact.title }}</h4><ul><li><a href='{{ site.baseurl }}{{ artifact.url }}'>Artifact page</a></li><li><a href='{{ artifact.official-link }}'>Official link</a></li><li><a href='{{ artifact.wikipedia-link }}'>Wikipedia link</a></li></ul>";
+    const {{ artifact.slug }} = L.marker([{{ artifact.latitude }}, {{ artifact.longitude }}], { name: "{{ artifact.title }}" }).bindPopup(popupContent);
+    artifacts.push({{ artifact.slug }});
   {% endfor %}
   const artifactsLayer = L.layerGroup(artifacts).addTo(map);
 </script>
