@@ -1,6 +1,9 @@
 baseurl: /downtown-archaeologies
 name: Downtown Archæologies
 markdown: kramdown
+collections:
+  artifacts :
+    output: true
 defaults: 
   -
     scope: 
@@ -12,3 +15,10 @@ defaults:
       path: "_posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: artifacts
+    values:
+      layout: artifact
+      map: true

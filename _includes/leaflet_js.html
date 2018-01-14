@@ -10,8 +10,12 @@
   }).addTo(map);
   const nyu = [40.73046499853991, -73.99250799849149];
   map.setView(nyu, 14);
-  {% for location in site.data.locations %}
-    let popupContent = "<h3>{{ location.name }}</h3><ul><li><a href='{{ location.link }}'>Web link</a></li><li><a href='{{ location.wikipedia-link }}'>Wikipedia link</a></li></ul>";
-    L.marker([{{ location.latitude }}, {{ location.longitude }}]).bindPopup(popupContent).addTo(map);
+  let popupContent
+  let artifacts = [];// L.layerGroup();
+  {% for artifact in site.artifacts %}
+    popupContent = "<h4>{{ artifact.title }}</h4><ul><li><a href='{{ artifact.link }}'>Web link</a></li><li><a href='{{ artifact.wikipedia-link }}'>Wikipedia link</a></li></ul>";
+  const {{ artifact.slug }} = L.marker([{{ artifact.latitude }}, {{ artifact.longitude }}], { name: "{{ artifact.title }}" }).bindPopup(popupContent);
+  artifacts.push({{ artifact.slug }});
   {% endfor %}
+  const artifactsLayer = L.layerGroup(artifacts).addTo(map);
 </script>
