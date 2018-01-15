@@ -13,7 +13,14 @@
   let popupContent
   let artifacts = [];// L.layerGroup();
   {% for artifact in site.artifacts %}
-    popupContent = "<h4>{{ artifact.title }}</h4><ul><li><a href='{{ site.baseurl }}{{ artifact.url }}'>Artifact page</a></li><li><a href='{{ artifact.official-link }}'>Official link</a></li><li><a href='{{ artifact.wikipedia-link }}'>Wikipedia link</a></li></ul>";
+    popupContent = "<h4><a href='{{ site.baseurl }}{{ artifact.url }}'>{{ artifact.title }}</a></h4><ul>";
+    {% if artifact.official-link %}
+      popupContent = popupContent + "<li><a href='{{ artifact.official-link }}'>Official link</a></li>";
+    {% endif %}
+    {% if artifact.wikipedia-link %}
+      popupContent = popupContent + "<li><a href='{{ artifact.wikipedia-link }}'>Wikipedia link</a></li>";
+    {% endif %}
+    popupContent = popupContent + "</ul>";
     const {{ artifact.slug }} = L.marker([{{ artifact.latitude }}, {{ artifact.longitude }}], { name: "{{ artifact.title }}" }).bindPopup(popupContent);
     artifacts.push({{ artifact.slug }});
   {% endfor %}
