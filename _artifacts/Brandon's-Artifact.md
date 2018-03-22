@@ -1,5 +1,5 @@
 ---
-title: Placeholder
+title: Brandon's Placeholder
 author: bw1121
 slug: brandonsslug
 ---
