@@ -1,5 +1,5 @@
 ---
-title: Kate Leder Downtown
+title: Kate Leder Artifact
 author: kjl411
-slug: katelederdowntown
+slug: katelederartifact
 ---
