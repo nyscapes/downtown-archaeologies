@@ -1,6 +1,7 @@
 ---
 title: placeholder
 author: ltm276
-slug:
+slug: lauraplaceholder
 ---
-hello my name is laura 
+
+hello my name is laura
