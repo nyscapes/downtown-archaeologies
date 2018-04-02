@@ -20,6 +20,7 @@ The two flyers that I chose from Fales show this nature of the Downtown club sce
 
 
 Works Cited
+
 “A Couple of Clubs on the Bowery in 1983.” Ephemeral New York, 15 Sept. 2010, ephemeralnewyork.wordpress.com/2010/09/15/a-couple-of-clubs-on-the-bowery-in-1983/.
 “Honeymoon Killers.” Nothin' Sez Somethin', 19 Nov. 2008,nathannothinsez.blogspot.com/2008/11/honeymoon-killers.html.
 Peterson, Morgan. “#TheLIST: New York's Most Historic Night Clubs.” Harper's BAZAAR, Harper's BAZAAR, 4 Oct. 2017, www.harpersbazaar.com/culture/features/g6051/historic-new-york-city-nightclubs/.
