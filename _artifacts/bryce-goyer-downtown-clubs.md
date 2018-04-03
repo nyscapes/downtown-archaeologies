@@ -5,6 +5,7 @@ slug: brycegoyerdowntownclubs
 ---
 ![BuskersClubFlyer](https://i.imgur.com/OaqoFTm.jpg)
 ![CBGBClubFlyer](https://i.imgur.com/xKht7qG.jpg)
+Pyramid Club Flyers, date unknown, Box 1, Folder 6 and 7, MSS.435, Fales Library & Special Collections, New York University Libraries
 
 While looking through the box of Downtown Club flyers in Fales, I was originally looking for a flyer that was visually appealing. I have very little knowledge of the Downtown club scene in the 70s and 80s, so I was open to any flyer that caught my eye. The first flyer that caught my eye was a black and white flyer that had a comic-like box in the left hand corner and big comic-esque writing that read “Huge Killer Ship” colored in red, orange and yellow. This “Huge Killer Ship” was what I assumed to be a band, and they were going to be playing on May 10th at the club CBGB. This flyer immediately seemed interesting to me, we had talked about CBGB in class before, and the comic-style aesthetic was interesting and different. The next folder had a flyer also for a performance of the band “Huge Killer Ship”, along with a show “Wild Wild West”, but this time at the Buskers Club on Friday the 17th.
 
