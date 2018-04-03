@@ -3,7 +3,6 @@ title: Club 57
 author: elh365
 slug: club57
 ---
-
 	New York City’s Club 57, located on 57 St. Mark’s Place in between 1st and 2nd avenue, was a staple for young artists in the early 1980’s. In its short life, only being open from 1979-1983, it housed many famous artists that are hailed and respected today, such as Jean Michel-Basquiat and Keith Haring. It was founded by Stanley Strychachki, a Polish immigrant who decided to come to America in 1972. Surprisingly, the club was under the Holy Cross Polish National Catholic Church and Strychachki was in charge of gaining extra revenue for the church, using the bar below as a means of getting more customers. The club was originally called the “East Village Student’s Club” and generally catered to New York University students.
 
 	However, he was not a fan of the customers that would come through and he decided to rebrand it to his liking: the punk and garage band scene. He reopened the club on February 1978 and renamed it Club 57 since it was on 57 St. Mark’s Place. He changed everything inside of the club and instead of a DJ, he chose to get acts from around the area that would fulfill his musical needs. He asked for the help of artists Ann Magnuson, Susan Hannaford, and Tom Scully to run the newly founded venue.
