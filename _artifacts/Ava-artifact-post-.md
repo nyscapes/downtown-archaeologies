@@ -24,7 +24,7 @@ While observing Seller’s binder, I was also able to gain a sense of the art sc
 
 In “The Dungeon Series,” Sellers and DeSana created, and thus promoted, art that was viewed as “anti art” during this time because it was so different and deviated from previous conceptions of what “art” was. Sellers helped to pave the way for more forms of modern art and modern artists. It is collections like “The Dungeon Series” that shed light on how art did not have to be limited to specific genres, styles, and concepts. Terence Sellers work opened up a new conversation about art and sparked people to ask, “well, what is art?”
 
-[^footnote-1]: JP. "DIRTY, DANGEROUS & DESTITUTE | NEW YORK IN THE 70s – ALLAN TANNENBAUM." The Selvedge Yard. May 17, 2014. Accessed March 20, 2018. https://selvedgeyard.com/2010/04/15/hookers-hypodermics-new-york-in-the-70s/.
+[^footnote-1]: JP. "DIRTY, DANGEROUS & DESTITUTE. NEW YORK IN THE 70s – ALLAN TANNENBAUM. "The Selvedge Yard. May 17, 2014. Accessed March 20, 2018. https://selvedgeyard.com/2010/04/15/hookers-hypodermics-new-york-in-the-70s/.
 
 [^footnote-2]: "NEWS FROM THE JACKIE FACTORY: A VERY CORRECT REMEMBRANCE OF TERENCE SELLERS." MotherNYC. Accessed March 20, 2018. http://www.mothernyc.com/terence/.
 
