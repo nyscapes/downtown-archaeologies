@@ -1,5 +1,5 @@
 ---
-title: "The Dungeon Series" Artifact Post
+title: “The Dungeon Series” Artifact Post
 author: ans614
 slug: Avaslug
 ---
