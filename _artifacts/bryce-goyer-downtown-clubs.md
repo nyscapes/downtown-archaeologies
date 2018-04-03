@@ -23,8 +23,13 @@ The two flyers that I chose from the Fales Collection show this nature of the Do
 Works Cited
 
 “A Couple of Clubs on the Bowery in 1983.” Ephemeral New York, 15 Sept. 2010, ephemeralnewyork.wordpress.com/2010/09/15/a-couple-of-clubs-on-the-bowery-in-1983/.
+
 “Honeymoon Killers.” Nothin' Sez Somethin', 19 Nov. 2008,nathannothinsez.blogspot.com/2008/11/honeymoon-killers.html.
+
 Peterson, Morgan. “#TheLIST: New York's Most Historic Night Clubs.” Harper's BAZAAR, Harper's BAZAAR, 4 Oct. 2017, www.harpersbazaar.com/culture/features/g6051/historic-new-york-city-nightclubs/.
+
 Priluck, Jill. “The Old Bowery: Dancing Bums & Moishe's Egg Cream.” Gothamist, 26 Feb. 2007, gothamist.com/2007/02/26/with_the_bowery.php.
+
 Scancarelli, Derek. “Highlighting the Iconic New York City Music Venues of the 70s.” Noisey, 11 Feb. 2016, noisey.vice.com/en_us/article/rmjwvq/highlighting-the-iconic-new-york-music-venues-of-the-70s.
+
 White, Edmund. “Why Can't We Stop Talking About New York in the Late 1970s?” The New York Times, The New York Times, 10 Sept. 2015, www.nytimes.com/2015/09/10/t-magazine/1970s-new-york-history.html.
