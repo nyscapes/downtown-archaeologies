@@ -1,11 +1,11 @@
 {% include header.html %}
 {% assign author = site.data.authors[page.author] %}
-  <article class="col-md-8">
+  <article class="artifact col-md-8">
     <h2>{{ page.title }}</h2>
     <h3>by {{ author.name }}</h3>
-    <div style="height: 300px; max-width: auto;" id="map"></div>
-
-
+    {% if page.coordinates  %}
+      <div style="height: 300px; max-width: auto;" id="map"></div>
+    {% endif %}
     {{ content }}
   </article>
 {% include footer.html %}
