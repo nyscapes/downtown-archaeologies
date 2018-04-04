@@ -1,11 +1,12 @@
 ---
-title: Sara Dwntn Artifact Alan Klein Papers
+title: "Alan Klein Papers ACT UP in Greenwich Village"
 author: sm6381
-slug: AlanKleinActUpDocs
+slug: alankleindocuments
 latitude:
 longitude:
 official link: http://actupny.org/
-wikipedia link: https://en.wikipedia.org/wiki/ACT_UP
+wikipedia link: https://en.wikipedia.org/wiki/ACT_UP/
+
 ---
 
 The Downtown Collection at NYU's Fales Library has a huge archive of papers from Alan Klein. as a prominent member of ACT UP, an AIDS activist group that formed in the 1980s, Klein kept consistent and through documentation of the group's work.
