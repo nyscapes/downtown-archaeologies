@@ -8,9 +8,9 @@ folder: 1
 copyright-status: 0
 copyright-holder: "Unknown"
 artifact-name: "Statement"
-artifact-date: 1979-02-02
+artifact-date: 1983-06
 card-image-url: "https://i.imgur.com/6xNFKFf.jpg"
-card-image-text: "Statement"
+card-image-text: "One Year - Rope Piece Statement"
 tags: ["performance piece", "art", "performance", "experimental"]
 ---
 
