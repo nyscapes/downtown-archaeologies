@@ -8,7 +8,7 @@ folder: 1
 copyright-status: 2
 copyright-holder: "Michael Carter"
 artifact-name: "For the Left Side of Your Brain"
-artifact-date: 1982
+artifact-date: 1982-01-01
 tags: ["magazine", "gentrification","heroin","east village", "poems","art"]
 slug: redtapemagazine
 ---
