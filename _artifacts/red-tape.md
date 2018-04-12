@@ -1,6 +1,17 @@
 ---
 title: Red Tape Zine
 author: lrd306
+library: Fales
+library-collection: "Downtown Collection"
+box: 1
+folder: 1
+copyright-status: 2
+copyright-holder: "Michael Carter"
+artifact-name: "For the Left Side of Your Brain"
+artifact-date: 1982-01-01
+card-image-url: https://i.imgur.com/wq2Bh3y.jpg
+card-image-text: "Magazine Cover"
+tags: ["magazine", "gentrification","heroin","east village", "poems","art"]
 slug: redtapemagazine
 ---
 
@@ -26,6 +37,8 @@ Red Tape also deals with other issues from the time period. As mentioned earlier
 
 
 Red Tape is more than just a magazine, but a chronicle of the issues and feelings in the East Village during he 1980’s. In a time where a culture was grappling with gentrification, battling the social norms of a bustling society, and dealing with drug addiction, publications like Red Tape provided a refuge. They were a platform for artistic expression. And now, looking at them in 2018, they allow modern readers to understand the issues of that time, and use the “zine” as a jumping off point to begin exploring different histories and issues of the period. Though the publication created its own network by distributing hard copies around the city, emanating from its headquarters at 534 East 11th St (a building which, according to Streeteasy, now sells apartments for upwards of $400,000), its reach was much farther. It is able to cement itself into the life of New York, intertwining with other movements and stories, to truly become engrained in the history of the Downtown.
+
+Red Tape Magazine, 1982, Box 1, Folder N/A, Downtown Collection, Fales Library & Special Collections, New York University Libraries.
 
 Jacobs, Andrew. "NEIGHBORHOOD REPORT: EAST VILLAGE;A Summer Rite: Tompkins Sq. Heats Up Again." The New York Times. The New York Times, 30 June 1996. Web. 01 Apr. 2018
 
