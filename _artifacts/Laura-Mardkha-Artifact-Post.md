@@ -2,15 +2,15 @@
 title: El Internacional
 author: ltm276
 library: fales
-library collection: Martha Wilson Papers
+library-collection: Martha Wilson Papers
 box: 74
 folder: 4
-copywrite-status: 2
+copyright-status: 2
 artifact-name: Martha Wilson Papers El Internacional Restaurant
 artifact-date: 1985
 card-image-url: https://www.moma.org/calendar/events/2985
 card-image-text: el internacional
-tags: ["resaurant" "1980s New York" "Tribeca" "Tapas"]
+tags: ["resaurant", "1980s New York", "Tribeca", "Tapas"]
 ---
 
 When pondering which aspect of downtown New York I am most intrigued by, I could not ignore that food, and the ambiance that it provides, pulls me in the most. My chosen artifact for this project is an edition of the El Internacional Newspaper- a publication for the iconic 1980s Tribeca restaurant.
