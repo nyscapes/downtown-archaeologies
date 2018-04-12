@@ -3,13 +3,13 @@ title: Huge Killer Ship and the Downtown Club Scene
 author: bg1506
 slug: brycegoyerdowntownclubs
 library: fales
- library-collection: "Pyramid Club Flyers"
- box: 1
- folder: 6
- folder: 7
- copyright-status: 2
- artifact-name: "Pyramid Club Flyers"
- artifact-date: unkown
+library-collection: "Pyramid Club Flyers"
+box: 1
+folder: 6
+folder: 7
+copyright-status: 2
+artifact-name: "Pyramid Club Flyers"
+artifact-date: unkown
 ---
 ![BuskersClubFlyer](https://i.imgur.com/OaqoFTm.jpg)
 ![CBGBClubFlyer](https://i.imgur.com/xKht7qG.jpg)
