@@ -3,15 +3,21 @@
     <div class="card">
       {% if artifact.card-image-url %}
         <a href="{{ site.baseurl }}{{ artifact.url }}">
-          <img class="card-img-top" src="{{ artifact.card-image-url }}" alt="{{artifact.card-image-text }}">
+          <img class="card-img" src="{{ artifact.card-image-url }}" alt="{{artifact.card-image-text }}">
         </a>
-      {% endif %}
+        <div class="card-img-overlay align-items-end d-flex text-white">
+          <div>
+            <h5 class="card-title bg-custom-dark p-1 ">{{ artifact.title }}</h5>
+          </div>
+        </div>
+      {% else %}
       <div class="card-body">
         <h5 class="card-title"><a href="{{ site.baseurl }}{{ artifact.url }}">{{ artifact.title }}</a></h5>
         {% if artifact.teaser %}
           <p>{{ artifact.teaser }}</p>
         {% endif %}
       </div>
+      {% endif %}
     </div>
   {% endfor %}
 </div>
