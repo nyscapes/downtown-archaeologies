@@ -2,7 +2,7 @@
     integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
     crossorigin=""></script>
 <script>
-  let map = L.map("map");
+  const map = L.map("map");
   L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
     subdomains: 'abcd',
@@ -10,19 +10,35 @@
   }).addTo(map);
   const nyu = [40.73046499853991, -73.99250799849149];
   map.setView(nyu, 14);
-  let popupContent
-  let artifacts = [];// L.layerGroup();
+  let popupContent;
+  const places = [];// L.layerGroup();
   {% for artifact in site.artifacts %}
-    popupContent = "<h4><a href='{{ site.baseurl }}{{ artifact.url }}'>{{ artifact.title }}</a></h4><ul>";
-    {% if artifact.official-link %}
-      popupContent = popupContent + "<li><a href='{{ artifact.official-link }}'>Official link</a></li>";
-    {% endif %}
-    {% if artifact.wikipedia-link %}
-      popupContent = popupContent + "<li><a href='{{ artifact.wikipedia-link }}'>Wikipedia link</a></li>";
-    {% endif %}
-    popupContent = popupContent + "</ul>";
-    const {{ artifact.slug }} = L.marker([{{ artifact.latitude }}, {{ artifact.longitude }}], { name: "{{ artifact.title }}" }).bindPopup(popupContent);
-    artifacts.push({{ artifact.slug }});
+    {% if artifact.coordinates %}
+      popupContent = "<h4><a href='{{ site.baseurl }}{{ artifact.url }}'>{{ artifact.title }}</a></h4><ul>";
+      {% if artifact.official-link %}
+        popupContent = popupContent + "<li><a href='{{ artifact.official-link }}'>Official link</a></li>";
+      {% endif %}
+      {% if artifact.wikipedia-link %}
+        popupContent = popupContent + "<li><a href='{{ artifact.wikipedia-link }}'>Wikipedia link</a></li>";
+      {% endif %}
+      popupContent = popupContent + "</ul>";
+      const {{ artifact.slug }} = L.marker([{{ artifact.coordinates[0] }}, {{ artifact.coordinates[1] }}], { name: "{{ artifact.title }}" }).bindPopup(popupContent);
+      places.push({{ artifact.slug }});
+      {% endif %}
   {% endfor %}
-  const artifactsLayer = L.layerGroup(artifacts).addTo(map);
+  {% for node in site.nodes %}
+    {% if node.coordinates %}
+      popupContent = "<h4><a href='{{ site.baseurl }}{{ node.url }}'>{{ node.title }}</a></h4><ul>";
+      {% if node.official-link %}
+        popupContent = popupContent + "<li><a href='{{ node.official-link }}'>Official link</a></li>";
+      {% endif %}
+      {% if node.wikipedia-link %}
+        popupContent = popupContent + "<li><a href='{{ node.wikipedia-link }}'>Wikipedia link</a></li>";
+      {% endif %}
+      popupContent = popupContent + "</ul>";
+      const {{ node.slug }} = L.marker([{{ node.coordinates[0] }}, {{ node.coordinates[1] }}], { name: "{{ node.title }}" }).bindPopup(popupContent);
+      places.push({{ node.slug }});
+      {% endif %}
+  {% endfor %}
+  Layer = L.layerGroup(places).addTo(map);
 </script>

@@ -4,6 +4,8 @@ markdown: kramdown
 collections:
   artifacts :
     output: true
+  nodes:
+    output: true
 defaults: 
   -
     scope: 
@@ -21,4 +23,9 @@ defaults:
       type: artifacts
     values:
       layout: artifact
-      map: true
+  -
+    scope:
+      path: ""
+      type: nodes
+    values:
+      layout: node

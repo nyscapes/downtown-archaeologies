@@ -1,5 +1,6 @@
 ---
 title: Fake post but real flyer
+teaser: "This is the teaser: text."
 author: mds17
 library: fales
 library-collection: "Peter Dougherty Collection"
