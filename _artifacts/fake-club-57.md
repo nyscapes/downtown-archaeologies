@@ -12,7 +12,7 @@ artifact-name: "Club 57"
 artifact-date: 1979-02-02
 card-image-url: "https://i.imgur.com/auP6LUE.jpg"
 card-image-text: "Debbie Harry"
-tags: ["flyer", "music", "club 57", "peter dougherty"]
+tags: flyer music club-57 peter-dougherty
 carousel:
   - url: https://i.imgur.com/lz87ol6.jpg
     alt: "Cogito map" 
