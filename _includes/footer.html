@@ -1,13 +1,26 @@
-      <div class="col-md-4">
+      <div class="col-md-4" id="sidebar">
         <h3><a href="{{ site.baseurl }}/map">Our Downtown</a></h3>
-        <h3>Artifacts</h3>
-        <ul>
-          {% for artifact in site.artifacts %}
-            <li>
-              <a href="{{ site.baseurl }}{{ artifact.url }}">{{ artifact.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
+        <details><summary><h3>Artifacts</h3></summary>
+          <ul>
+            {% for artifact in site.artifacts %}
+              <li><a href="{{ site.baseurl }}{{ artifact.url }}">{{ artifact.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </details>
+        <details><summary><h3>Nodes</h3></summary>
+          <ul>
+            {% for node in site.nodes %}
+              <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </details>
+        <details><summary><h3>Tags</h3></summary>
+          <ul>
+            {% for tag in tags %}
+              <li><a href="{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a></li>
+            {% endfor %}
+          </ul>
+        </details>
       </div>
     </div>
   </div>
