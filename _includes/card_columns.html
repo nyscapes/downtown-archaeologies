@@ -2,12 +2,14 @@
   {% for artifact in site.artifacts %}
     <div class="card">
       {% if artifact.card-image-url %}
-        <a href="{{ site.baseurl }}{{ artifact.url }}">
-          <img class="card-img" src="{{ artifact.card-image-url }}" alt="{{artifact.card-image-text }}">
-        </a>
+        <img class="card-img" src="{{ artifact.card-image-url }}" alt="{{artifact.card-image-text }}">
         <div class="card-img-overlay align-items-end d-flex text-white">
           <div>
-            <h5 class="card-title bg-custom-dark p-1 ">{{ artifact.title }}</h5>
+              <h5 class="card-title bg-custom-dark p-1 ">
+                <a class="text-white" href="{{ site.baseurl }}{{ artifact.url }}">
+                  {{ artifact.title }}
+                </a>
+              </h5>
           </div>
         </div>
       {% else %}

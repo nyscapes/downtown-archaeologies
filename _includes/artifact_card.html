@@ -18,6 +18,13 @@
     {% endif %}
     <p>{{ page.library-collection }}<br>
     Box {{page.box}}, folder {{page.folder}}
+    <h6 class="card-subtitle">Tags</h6>
+    <p>
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="{{ site.baseurl }}/tags/{{ tag_name }}"><span class="badge badge-secondary">{{ tag_name }}</span></a>&nbsp;
+      {% endfor %}
+    </p>
   </div>
 </div>
 
