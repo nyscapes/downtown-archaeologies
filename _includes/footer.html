@@ -33,6 +33,9 @@
   {% endif %}
   <script>
     $("article > p > img").css( "max-width", "50%" ).css( "height", "auto" ).addClass("rounded float-right ml-2")
+    $(".footnotes").html(function(_, html){
+      return "<h3>Footnotes</h3>" + html;
+    });
   </script>
 </body>
 

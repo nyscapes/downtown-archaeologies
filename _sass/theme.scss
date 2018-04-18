@@ -1,5 +1,11 @@
-.artifact p {
-  text-indent: 2rem;
+.artifact {
+  p {
+    text-indent: 2rem;
+  }
+
+  ul li p {
+    text-indent: 0rem;
+  }
 }
 
 .card-body p {
