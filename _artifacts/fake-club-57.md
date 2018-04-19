@@ -1,5 +1,6 @@
 ---
 title: Fake post but real flyer
+teaser: "This is the teaser: text."
 author: mds17
 library: fales
 library-collection: "Peter Dougherty Collection"
@@ -11,7 +12,7 @@ artifact-name: "Club 57"
 artifact-date: 1979-02-02
 card-image-url: "https://i.imgur.com/auP6LUE.jpg"
 card-image-text: "Debbie Harry"
-tags: ["flyer", "music", "club 57", "peter dougherty"]
+tags: flyer music club-57 peter-dougherty
 carousel:
   - url: https://i.imgur.com/lz87ol6.jpg
     alt: "Cogito map" 
@@ -61,5 +62,19 @@ this is a fake post to a real flyer.
 this is a fake post to a real flyer.
 this is a fake post to a real flyer.
 this is a fake post to a real flyer.
-this is a fake post to a real flyer.
+this is a fake post to a real flyer.[^fn1]
 
+### Bibliography
+
+* Landau, Peter. “[Pyramid
+  Club](http://nymag.com/listings/bar/pyramid_club/).” _NYMag.com_. Accessed March 28, 2018.
+
+* Hedlund, Patrick. “[Push to Make Pyramid Club City’s First ‘drag
+  Landmark’](http://thevillager.com/villager_241/pushtomake.html).” _The
+  Villager_. Accessed March 28, 2018. 
+
+* Sheryl. “[Pushing the Envelope on Avenue
+A](http://gvshp.org/blog/2011/06/29/pushing-the-envelope-on-avenue-a/).” _Greenwich Village Society for
+Historical Preservation_. June 29, 2011. Accessed March 28, 2018. 
+
+[^fn1]: This is the text of a footnote.

@@ -7,7 +7,7 @@ box: 13
 folder: 19
 copyright-status: 2
 copyright-holder: "Peter Dougherty"
-tags: ["rap", "music", "tour", "race","peter dougherty"]
+tags: rap music tour race peter-dougherty
 ---
 
 "RUN-D.M.C. and the Beastie Boys, the country's two most popular rap music acts, have announced a 40-city summerlong tour tentatively scheduled to begin in Honolulu on June 13 and to culminate at Madison Square Garden on Aug. 17. The ''Together Forever'' tour will be one of the few in pop music history to give top billing to black and white acts of equal stature. Both Run-D.M.C.'s latest album, ''Raising Hell,'' and the Beastie Boys' debut, ''Licensed to Ill,'' have surpassed the three million mark in sales.""

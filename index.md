@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="https://i.imgur.com/auP6LUE.jpg" alt="Debbie Harry" class="img-fluid">
+{% include card_columns.html %}
 
 We are media archæologists, gathering the dust that still falls in the East
 Village of New York.
