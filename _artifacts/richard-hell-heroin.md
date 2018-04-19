@@ -5,8 +5,8 @@ library: fales
 library-collection: "Richard Hell Papers"
 box: 10
 folder: 751
-copyright-status:
-copyright-holder:
+copyright-status: 0
+copyright-holder: Richard Hell
 artifact-name: "Heroin Notebook"
 artifact-date: c. 1990
 card-image-url:
