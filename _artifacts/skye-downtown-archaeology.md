@@ -5,6 +5,14 @@ slug: SkyesSlug
 latitude: 40.725818
 longitude: -73.983949
 wikipedia-link: https://en.wikipedia.org/wiki/Pyramid_Club
+library: fales
+library-collection: "Downtown Collection"
+box: 2
+folder: n/a
+copyright-status: 0
+artifact-name: "Pyramid Club Flyters"
+artifact-date: undated
+tags: flyer music pyramid-club
 ---
 
 Pyramid Flyers, date unknown, Box 2, Pyramid Club Flyers MSS.435, Fales Library & Special Collections, New York University Libraries.
