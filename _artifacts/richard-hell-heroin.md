@@ -9,7 +9,7 @@ copyright-status: 0
 copyright-holder: Richard Hell
 artifact-name: "Heroin Notebook"
 artifact-date: c. 1990
-card-image-url: "https://i.imgur.com/a/2i8GU.jpg"
+card-image-url: "https://imgur.com/a/2i8GU.jpg"
 card-image-text: "Heroin Notebook"
 tags: ["heroin", "east village",
 "richard hell", "punk"]
