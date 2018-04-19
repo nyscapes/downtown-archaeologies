@@ -7,10 +7,10 @@ longitude:
 official link: http://actupny.org/
 wikipedia link: https://en.wikipedia.org/wiki/ACT_UP/
 carousel:
- - url: https://imgur.com/WSwZq02
+ - url: https://i.imgur.com/WSwZq02.jpg
    alt: "ACT UP Poster"
    cap: AIDS is a Primary Issue
- - url: 
+ - url: https://i.imgur.com/UfgzRXC.jpg
    alt: "NYT Coverage of Wall Street Protest"
    cap: "The first ACT UP protest, as covered by the NYT"
 
