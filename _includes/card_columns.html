@@ -1,0 +1,26 @@
+<div class="card-columns">
+  {% for artifact in site.artifacts %}
+    <div class="card">
+      {% if artifact.card-image-url %}
+        <img class="card-img" src="{{ artifact.card-image-url }}" alt="{{artifact.card-image-text }}">
+        <div class="card-img-overlay align-items-end d-flex text-white">
+          <div>
+              <h5 class="card-title bg-custom-dark p-1 ">
+                <a class="text-white" href="{{ site.baseurl }}{{ artifact.url }}">
+                  {{ artifact.title }}
+                </a>
+              </h5>
+          </div>
+        </div>
+      {% else %}
+      <div class="card-body">
+        <h5 class="card-title"><a href="{{ site.baseurl }}{{ artifact.url }}">{{ artifact.title }}</a></h5>
+        {% if artifact.teaser %}
+          <p>{{ artifact.teaser }}</p>
+        {% endif %}
+      </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+

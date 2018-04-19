@@ -27,31 +27,10 @@
       {% include carousel_scripts.html %}
     {% endif %}
     {% if page.coordinates  %}
-      <div style="height: 300px; max-width: auto;" id="map"></div>
+      <div class="mb-3" style="height: 300px; max-width: auto;" id="map"></div>
     {% endif %}
-    <div class="card w-50 float-right m-1">
-      {% if page.card-image-url %}
-        <img class="card-img-top" src="{{ page.card-image-url }}" alt="{{page.card-image-text }}">
-      {% endif %}
-      <div class="card-header">
-        {{ page.artifact-date | date: "%B %e, %Y" }}
-      </div>
-      <div class="card-body">
-        <h5 class="card-title">{{ page.artifact-name }}</h5>
-        {% if page.library == "centro" %}
-          <h6 class="card-subtitle">
-            <a href="https://centropr.hunter.cuny.edu/" target="_blank">Centro Center for Puerto Rican Studies</a>
-          </h6>
-        {% else %}
-          <h6 class="card-subtitle">
-            <a href="https://guides.nyu.edu/downtown-collection" target="_blank">Downtown Collection at the Fales Library</a>
-          </h6>
-        {% endif %}
-        <p>{{ page.library-collection }}<br>
-        Box {{page.box}}, folder {{page.folder}}
-      </div>
-    </div>
 
+    {% include artifact_card.html %}
     {{ content }}
   </article>
 {% include footer.html %}

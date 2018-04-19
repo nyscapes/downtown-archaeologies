@@ -1,0 +1,20 @@
+{% include header.html %}
+{% assign author = site.data.authors[page.author] %}
+  <article class="node col-md-8">
+    <h2>{{ page.title }}</h2>
+    <h3>by {{ author.name }}</h3>
+    {% if page.coordinates  %}
+      <div class="mb-3" style="height: 300px; max-width: auto;" id="map"></div>
+    {% endif %}
+    <div class="card w-50 float-right m-1">
+      {% if page.card-image-url %}
+        <img class="card-img-top" src="{{ page.card-image-url }}" alt="{{page.card-image-text }}">
+      {% endif %}
+      <div class="card-body">
+        <h5 class="card-title">{{ page.title }}</h5>
+      </div>
+    </div>
+
+    {{ content }}
+  </article>
+{% include footer.html %}

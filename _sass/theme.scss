@@ -1,7 +1,32 @@
-.artifact p {
-  text-indent: 2rem;
+.artifact {
+  p {
+    text-indent: 2rem;
+  }
+
+  ul li p {
+    text-indent: 0rem;
+  }
 }
 
 .card-body p {
   text-indent: 0;
+}
+
+.bg-custom-dark {
+  background-color: rgba(52,58,64,0.6);
+
+  a {
+    color: #fff;
+  }
+}
+
+#sidebar {
+  details {
+    summary {
+      font-size: 1.75rem;
+      h3 {
+        display: inline;
+      }
+    }
+  }
 }
