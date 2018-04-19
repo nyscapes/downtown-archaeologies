@@ -3,14 +3,14 @@ title: “The Dungeon Series” Artifact Post
 author: ans614
 slug: Avaslug
 library: "fales"
-Collection: "Terence Sellers Papers"
-Box: 1
+collection: "Terence Sellers Papers"
+box: 1
 Folder: 425
-Copyright status: 2
-Copy right holder: "Martha Wilkerson"
-Artifact (pic) name: "The Dungeon Series"
-Artifact (pic) date: (1978-1979)
-Tags: art feminism prostitution culture  
+copyright status: 2
+copy right holder: "Martha Wilkerson"
+artifact (pic) name: "The Dungeon Series"
+artifact (pic) date: (1978-1979)
+tags: art feminism prostitution culture  
 ---
 
 "The Dungeon Series", 1978-1979, Box 1, Folder: 425, Terence Sellers Papers MSS.167, Fales Library & Special Collections, New York University Libraries.  
