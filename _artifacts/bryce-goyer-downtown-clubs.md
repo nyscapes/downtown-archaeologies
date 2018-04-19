@@ -10,6 +10,9 @@ folder: 7
 copyright-status: 2
 artifact-name: "Pyramid Club Flyers"
 artifact-date: unkown
+card-image-url: "https://i.imgur.com/xKht7qG.jpg"
+card-image-text: "CBGB Club Flyer"
+tags: ["downtown club scene"]
 ---
 ![BuskersClubFlyer](https://i.imgur.com/OaqoFTm.jpg)
 ![CBGBClubFlyer](https://i.imgur.com/xKht7qG.jpg)
