@@ -1,6 +1,6 @@
 ---
-Title: Fashion Moda: A Photograph
-Author: Vr750
+Title: "Fashion Moda: A Photograph"
+Author: vr750
 Slug: The All-Encompassing Experimental Art of the 1980s
 ---
 
