@@ -13,11 +13,23 @@ card-image-url: https://i.imgur.com/wq2Bh3y.jpg
 card-image-text: "Magazine Cover"
 tags: ["magazine", "gentrification","heroin","east village", "poems","art"]
 slug: redtapemagazine
+carousel:
+  - url: https://i.imgur.com/wq2Bh3y.jpg
+    alt: "Cover"
+    cap: "Cover"
+  - url: https://i.imgur.com/f70yeyO.jpg
+    alt: "Opening comic"
+    cap: "First comic in the issue"
+  - url: https://i.imgur.com/IpbcQiu.jpg
+    alt: "Still life"
+    cap: "Still life photo in the issue"
+  - url: https://i.imgur.com/0aiP0yA.jpg
+    alt: "Poem"
+    cap: "Michael Carter's poem"
 ---
 
 Blondie. Chernobyl. Shoulder pads. Among others, these cultural icons, events, and movements, helped to define and shape the 1980’s in America. But beyond the staples of mainstream culture, a realm of art and lifestyle teemed in the underground world of alternative and bohemia aesthetics. Red Tape, a magazine that circulated in the East Village from 1980-1992, was one such publication dedicated to showcasing the interesting and absurd art of the East Village at that time, and to having a space for artists, poets, and activists to express their frustrations, loves, and opinions. One issue in particular, published in 1982, entitled “For the Left Side of Your Brain,” does an excellent job of highlighting the creative energy coming out of the Village in the 1980s. The cover of the issue  features a cartoon by Michael Roman, and depicts a graphic female cat waving goodbye to an ambiguous looking man, who is walking down the street past stray trash cans. Within the issue itself, there are dozens of poems, essays, photographs, and comics, that strive to artistically express the moods and issues of that time period.
 
-![Cover](https://i.imgur.com/wq2Bh3y.jpg)
 
 The magazine itself is short, with only 15 or so pages. One of the first comics, entitled “16 Reasons to Kill Yourself,” by John Terhorst, features 18 cartoon boxes with different figures, confronting different issues that might lead one to kill themselves, including “Lies,” “Truth,” “Fantasy,” “Men,” and “Modern Values.” Terhorst kindly provides empty speech bubbles for the reader to fill in their own insecurities and issues with current society. Moving further into the issue, the reader is treated to a poems by various authors, including Michael Carter, who also happens to be the editor of the magazine. One gripping poem, by Steve Greber, called “Haste Lays Waste,” is an absurdist, surrealist poem about a faceless man and his relationship with another woman, which ultimately ends in disaster. Later on, a page advertises a poetry reading on the corner of 10th street and Avenue B, and invites the public to sign up to read. The pictures promoting this event are cartoons and drawings depicting happy, wholesome American families, juxtaposed with captions like “bright but bored,” “floundering,” and “Well, once you’ve got a trade, you’ve got a future. Then you’re a man.” Obviously, art can be interpreted many different ways, but I took this page to be not only an announcement for a poetry reading, but a commentary on rigid societal values. Flipping through the remaining magazine pages, you see photographs and black and white images. One such image pokes fun at ideas of traditional, fruit inspired, still lifes, by disfiguring and altering the fruit itself. Poems about the torture and inescapability of drug addition also course through the pages of this magazine, with one poem in particular, by Lauren Weber, standing out. It expresses the devastation and hopelessness of addiction as “euphoric abandon measured in a syringe measured euphoria.” The magazine itself might be made of paper, but it’s contents pack a punch.
 
@@ -38,16 +50,16 @@ Red Tape also deals with other issues from the time period. As mentioned earlier
 
 Red Tape is more than just a magazine, but a chronicle of the issues and feelings in the East Village during he 1980’s. In a time where a culture was grappling with gentrification, battling the social norms of a bustling society, and dealing with drug addiction, publications like Red Tape provided a refuge. They were a platform for artistic expression. And now, looking at them in 2018, they allow modern readers to understand the issues of that time, and use the “zine” as a jumping off point to begin exploring different histories and issues of the period. Though the publication created its own network by distributing hard copies around the city, emanating from its headquarters at 534 East 11th St (a building which, according to Streeteasy, now sells apartments for upwards of $400,000), its reach was much farther. It is able to cement itself into the life of New York, intertwining with other movements and stories, to truly become engrained in the history of the Downtown.
 
-Red Tape Magazine, 1982, Box 1, Folder N/A, Downtown Collection, Fales Library & Special Collections, New York University Libraries.
+### Bibliography
 
-Jacobs, Andrew. "NEIGHBORHOOD REPORT: EAST VILLAGE;A Summer Rite: Tompkins Sq. Heats Up Again." The New York Times. The New York Times, 30 June 1996. Web. 01 Apr. 2018
+* Red Tape Magazine, 1982, Box 1, Folder N/A, Downtown Collection, Fales Library & Special Collections, New York University Libraries.
 
-Mele, Christopher. "Selling the Lower East Side." Google Books. N.p., 2000. Web. 01 Apr. 2018.
+* Jacobs, Andrew. "NEIGHBORHOOD REPORT: EAST VILLAGE;A Summer Rite: Tompkins Sq. Heats Up Again." The New York Times. The New York Times, 30 June 1996. Web. 01 Apr. 2018
 
+* Mele, Christopher. "Selling the Lower East Side." Google Books. N.p., 2000. Web. 01 Apr. 2018.
 
-Sante, Luc. Low Life. Farrar, Straus and Giroux, 1991.
+* Sante, Luc. Low Life. Farrar, Straus and Giroux, 1991.
 
-Stosuy, Brandon, Dennis Cooper, and Eileen Myles. "Publication, an Addendum." Up Is Up, but so Is Down: New York's Downtown Literary Scene, 1974-1992. N.p.: New York UP, 2006. 457-61. Print.
+* Stosuy, Brandon, Dennis Cooper, and Eileen Myles. "Publication, an Addendum." Up Is Up, but so Is Down: New York's Downtown Literary Scene, 1974-1992. N.p.: New York UP, 2006. 457-61. Print.
 
-
-Village Voice Staff. "East Village Nights: An Excerpt From NYHC: New York Hardcore 1980-1990." Village Voice. N.p., 4 Dec. 2014. Web. 01 Apr. 2018.
+* Village Voice Staff. "East Village Nights: An Excerpt From NYHC: New York Hardcore 1980-1990." Village Voice. N.p., 4 Dec. 2014. Web. 01 Apr. 2018.
