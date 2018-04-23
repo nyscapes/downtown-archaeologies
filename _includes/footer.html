@@ -1,27 +1,41 @@
-      <div class="col-md-4">
+      <div class="col-md-4" id="sidebar">
         <h3><a href="{{ site.baseurl }}/map">Our Downtown</a></h3>
-        <h3>Artifacts</h3>
-        <ul>
-          {% for artifact in site.artifacts %}
-            <li>
-              <a href="{{ site.baseurl }}{{ artifact.url }}">{{ artifact.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
+        <details><summary><h3>Artifacts</h3></summary>
+          <ul>
+            {% for artifact in site.artifacts %}
+              <li><a href="{{ site.baseurl }}{{ artifact.url }}">{{ artifact.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </details>
+        <details><summary><h3>Nodes</h3></summary>
+          <ul>
+            {% for node in site.nodes %}
+              <li><a href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </details>
+        <details><summary><h3>Tags</h3></summary>
+          <ul>
+            {% for tag in tags %}
+              <li><a href="{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a></li>
+            {% endfor %}
+          </ul>
+        </details>
       </div>
     </div>
   </div>
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
-  {% if page.map == true %}
+  {% if page.coordinates %}
     {% include leaflet_js.html %}
-  {% endif %}
-  {% if page.url contains "/artifacts/" %}
     {% include artifact_js.html %}
   {% endif %}
   <script>
     $("article > p > img").css( "max-width", "50%" ).css( "height", "auto" ).addClass("rounded float-right ml-2")
+    $(".footnotes").html(function(_, html){
+      return "<h3>Footnotes</h3>" + html;
+    });
   </script>
 </body>
 

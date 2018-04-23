@@ -6,6 +6,13 @@ latitude:
 longitude:
 official link: http://actupny.org/
 wikipedia link: https://en.wikipedia.org/wiki/ACT_UP/
+carousel:
+ - url: https://i.imgur.com/WSwZq02.jpg
+   alt: "ACT UP Poster"
+   cap: AIDS is a Primary Issue
+ - url: https://i.imgur.com/UfgzRXC.jpg
+   alt: "NYT Coverage of Wall Street Protest"
+   cap: "The first ACT UP protest, as covered by the NYT"
 
 ---
 
@@ -43,4 +50,6 @@ ACT UP used repetition to solidify their message in a variety of campaigns. One 
 
 The tactics of ACT UP were used to effectively garner support and understanding of those suffering and dying form the disease. The activist group increased involvement beyond the gay community and educated those both in and outside the LGBT sphere. The tactics and methods set in place by ACT UP are still used by organizations that take inspiration form them today.
 
-Bibliography:
+### Bibliography:
+* Manuscripts and Archives Division, The New York Public Library. "AIDS is a primary issue. Demand a national plan on AIDS." _New York Public Library Digital Collections_. Accessed March 9, 2018.
+* “ACT UP Capsule History.” ACT UP New York. Acccessed March 9, 2018.
