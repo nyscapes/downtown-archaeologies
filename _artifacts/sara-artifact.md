@@ -1,13 +1,12 @@
 ---
-title: "Alan Klein Papers ACT UP in Greenwich Village"
+title: ACT UP in Greenwich Village
 author: sm6381
-slug: alankleindocuments
 library: Fales
 library-collection: "Alan Klein Papers"
 box: 5
 folder: 8
 copyright-status: 1
-artifact-name: "AIDS: A Lesbian Issue?"
+artifact-name: "AIDS A Lesbian Issue?"
 artifact-date: 1980s
 official link: http://actupny.org/
 wikipedia link: https://en.wikipedia.org/wiki/ACT_UP/
