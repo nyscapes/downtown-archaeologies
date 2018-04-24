@@ -9,7 +9,7 @@ copyright-status: 2
 copyright-holder: "Bullet Space"
 artifact-name: "Your House is Mine, An Act of Resistance 1988-1992."
 artifact-date: 1988-1993
-card-image-url: "(https://i.imgur.com/VxRGCbC.jpg)"
+card-image-url: "https://i.imgur.com/VxRGCbC.jpg"
 card-image-text: "Your House Is Mine"
 tags: ["LES", "downtown", "street-art", "graffiti", "gentrification" "social-injustice"]
 ---
