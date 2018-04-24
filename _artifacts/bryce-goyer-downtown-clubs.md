@@ -5,7 +5,7 @@ slug: brycegoyerdowntownclubs
 library: fales
 library-collection: "Pyramid Club Flyers"
 box: 1
-folder: 6
+folder: 7
 copyright-status: 2
 copyright-holder: "Unknown"
 artifact-name: "Pyramid Club Flyers"
