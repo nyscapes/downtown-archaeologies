@@ -12,7 +12,7 @@ folder: n/a
 copyright-status: 0
 artifact-name: "Pyramid Club Flyters"
 artifact-date: undated
-tags: ["flyer","music","pyramid club","club","east village"
+tags: flyer music pyramid club club east village
 ---
 
 Pyramid Flyers, date unknown, Box 2, Pyramid Club Flyers MSS.435, Fales Library & Special Collections, New York University Libraries.
