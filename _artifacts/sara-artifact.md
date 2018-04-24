@@ -39,7 +39,7 @@ The artifact I chose to work with is a flyer from an outreach campaign aimed at 
 
 So much of the media coverage of AIDS was incorrect or biased. At the beginning of the epidemic, the disease was called GRIDS – it was labelled a "gay disease." Incorrectly, women and straight people were often told to ignore the disease; it was thought to be impossible for them to acquire. As AIDS spread, it became clear that this was entirely false. ACT UP worked to change the perception of AIDS by informing the public about its true nature.
 
-It would be a mistake to understate the impact that AIDS had on the gay community. Young men were disproportionately affected by the disease. The ![CDC estimates] (https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5047a10.htm) that of over 50,000 reported cases between 1981 and 1987, 92% of those were male. Of those cases, 95.5% or 47,993 were deceased. Between 1981 and 2000, over 200,000 people in the United States were _reported_ to have HIV/AIDS.
+It would be a mistake to understate the impact that AIDS had on the gay community. Young men were disproportionately affected by the disease. The [CDC estimates](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5047a10.htm) that of over 50,000 reported cases between 1981 and 1987, 92% of those were male. Of those cases, 95.5% or 47,993 were deceased. Between 1981 and 2000, over 200,000 people in the United States were _reported_ to have HIV/AIDS.
 
 However, ACT UP did not want to limit education to queer men. Outreach committees worked to educate the media, as well as other population. This leads us back to my artifact.
 
