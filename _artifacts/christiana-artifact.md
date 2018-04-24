@@ -1,7 +1,6 @@
 ---
 title: Your House Is Mine
 author: cc4815
-slug: christiana-studies-an-artifact
 library: fales
 library-collection: "NYU Bobst Special Collection"
 box: 46
