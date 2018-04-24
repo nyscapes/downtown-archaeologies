@@ -10,6 +10,9 @@ copyright-holder:
 artifact-name:
 artifact-date:
 slug: club57
+card-image-url:
+card-image-text:
+tags: club-57 diy music art artists
 ---
 New York City’s Club 57, located on 57 St. Mark’s Place in between 1st and 2nd avenue, was a staple for young artists in the early 1980’s. In its short life, only being open from 1979-1983, it housed many famous artists that are hailed and respected today, such as Jean Michel-Basquiat and Keith Haring. It was founded by Stanley Strychachki, a Polish immigrant who decided to come to America in 1972. Surprisingly, the club was under the Holy Cross Polish National Catholic Church and Strychachki was in charge of gaining extra revenue for the church, using the bar below as a means of getting more customers. The club was originally called the “East Village Student’s Club” and generally catered to New York University students.
 
@@ -27,8 +30,10 @@ The venue recently had an exhibition at the Museum of Modern Art, just ending at
 
 Club 57 was a place to fully express the minds of New York City creators. With film showings, music performances, art galleries, and other forms of art, it was more than just a club to get drunk at and party in. It was a community for people, all the way into its untimely end in 1983 when it was downtrodden and riddled with workers who became drug addicts. The community thrived within itself and some of the artists that partook in this community are admirable artists to this day. With exhibitions like “Club 57: Film, Performance, and Art in the East Village, 1978–1983” at the Museum of Modern Art, the spirit of the club is kept alive and allowed to be taught to people that are interested in the early art scene in the future.
 
-Work Cited
+### Bibliography
 
-Alden, Todd. “Spotlight: CLUB 57: FLYERS 1979-83.” Alden Projects, Alden Projects, 2014, www.aldenprojects.com/2014/10/spotlight-club-57-flyers-1979-83.html.
-Mowder, Meredith. “Club 57.” The Brooklyn Rail, The Brooklyn Rail, 5 Mar. 2018, brooklynrail.org/2018/03/artseen/Club-57.
-Sokol, Brett. “Club 57, Late-Night Home of Basquiat and Haring, Gets a Museum-Worthy Revival.” The New York Times, The New York Times, 26 Oct. 2017, www.nytimes.com/2017/10/26/arts/design/club-57-museum-of-modern-art.html.
+* Alden, Todd. “Spotlight: CLUB 57: FLYERS 1979-83.” Alden Projects, Alden Projects, 2014, www.aldenprojects.com/2014/10/spotlight-club-57-flyers-1979-83.html.
+
+* Mowder, Meredith. “Club 57.” The Brooklyn Rail, The Brooklyn Rail, 5 Mar. 2018, brooklynrail.org/2018/03/artseen/Club-57.
+
+* Sokol, Brett. “Club 57, Late-Night Home of Basquiat and Haring, Gets a Museum-Worthy Revival.” The New York Times, The New York Times, 26 Oct. 2017, www.nytimes.com/2017/10/26/arts/design/club-57-museum-of-modern-art.html.

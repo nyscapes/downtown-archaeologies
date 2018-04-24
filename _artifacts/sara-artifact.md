@@ -1,19 +1,19 @@
 ---
-title: "Alan Klein Papers ACT UP in Greenwich Village"
+title: ACT UP in Greenwich Village
 author: sm6381
-slug: alankleindocuments
-library: Fales
+library: fales
 library-collection: "Alan Klein Papers"
 box: 5
 folder: 8
 copyright-status: 1
-artifact-name: "AIDS: A Lesbian Issue?"
+copyright-holder: ACT UP NY
+artifact-name: "AIDS A Lesbian Issue?"
 artifact-date: 1980s
 official link: http://actupny.org/
 wikipedia link: https://en.wikipedia.org/wiki/ACT_UP/
 card-image-url: https://i.imgur.com/WSwZq02.jpg
 card-image-text: "ACT UP Poster"
-tags: "AIDS","1980s","ACT UP", "LGBT"
+tags: ["AIDS","1980s","ACT UP", "LGBT"]
 carousel:
  - url: https://i.imgur.com/8EtG3F7.jpg
    alt: ACT UP protest
@@ -27,24 +27,19 @@ carousel:
  - url: https://i.imgur.com/UfgzRXC.jpg
    alt: "NYT Coverage of Wall Street Protest"
    cap: "The first ACT UP protest, as covered by the NYT"
-
 ---
 
 The "Downtown Collection" at NYU's Fales Library has a huge archive of papers from Alan Klein. as a prominent member of ACT UP, an AIDS activist group that formed in the 1980s, Klein kept consistent and through documentation of the group's work.
 
-ACT UP formed in 1987. The activist group, which still exists today, first came to national attention after performing an "action" on Wall Street to protest President Ronald Reagan and the "profiteering" pharmaceutical industry. At this point, only one HIV drug had been released. However, the group was angry at the price of the drug. The protest made it into [_The New York Times_](http://actupny.org/documents/1stFlyer.html). ![_NYT_ article from Wall Street Protest via ACT UP NY](https://i.imgur.com/UfgzRXC.jpg
+ACT UP formed in 1987. The activist group, which still exists today, first came to national attention after performing an "action" on Wall Street to protest President Ronald Reagan and the "profiteering" pharmaceutical industry. At this point, only one HIV drug had been released. However, the group was angry at the price of the drug. The protest made it into [_The New York Times_](http://actupny.org/documents/1stFlyer.html)
 
 The [Alan Klein Papers](http://dlib.nyu.edu/findingaids/html/fales/klein/) at Fales spans Klein's involvement in ACT UP, as well as later Queer Nation. The finding says that the collection spans form 1980 to 1995. As well as crossing a number of activist organizations, Klein's papers also span just about the entirety of the AIDS epidemic.
 
 The artifact I chose to work with is a flyer from an outreach campaign aimed at women – specifically lesbian and bisexual ones. The flyer, title "AIDS: A Lesbian Issue?" is text heavy.
 
-[image pending copyright status]
-
 So much of the media coverage of AIDS was incorrect or biased. At the beginning of the epidemic, the disease was called GRIDS – it was labelled a "gay disease." Incorrectly, women and straight people were often told to ignore the disease; it was thought to be impossible for them to acquire. As AIDS spread, it became clear that this was entirely false. ACT UP worked to change the perception of AIDS by informing the public about its true nature.
 
-It would be a mistake to understate the impact that AIDS had on the gay community. Young men were disproportionately affected by the disease. The [CDC estimates] (https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5047a10.htm) that of over 50,000 reported cases between 1981 and 1987, 92% of those were male. Of those cases, 95.5% or 47,993 were deceased. Between 1981 and 2000, over 200,000 people in the United States were _reported_ to have HIV/AIDS.
-
-![CDC Statistics on HIV/AIDS 1981-2000](https://i.imgur.com/UeluYT8.gif)
+It would be a mistake to understate the impact that AIDS had on the gay community. Young men were disproportionately affected by the disease. The [CDC estimates](https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5047a10.htm) that of over 50,000 reported cases between 1981 and 1987, 92% of those were male. Of those cases, 95.5% or 47,993 were deceased. Between 1981 and 2000, over 200,000 people in the United States were _reported_ to have HIV/AIDS.
 
 However, ACT UP did not want to limit education to queer men. Outreach committees worked to educate the media, as well as other population. This leads us back to my artifact.
 
@@ -60,12 +55,10 @@ The flyer uses repetition of phrases – a hallmark of ACT UP. In this particula
 
 ACT UP used repetition to solidify their message in a variety of campaigns. One slogan, which became a signature chant at protests was "ACT UP, Fight Back, Fight AIDS." The phrase "Fight back!" was used in a variety of other chants as well. At protests, these chants were used to solidify the message of the fight against not only AIDS, but the systems of power and bureaucracy in place that were ultimately killing thousands of people across the United States.
 
-[attach chant sheet]
-
 The tactics of ACT UP were used to effectively garner support and understanding of those suffering and dying form the disease. The activist group increased involvement beyond the gay community and educated those both in and outside the LGBT sphere. The tactics and methods set in place by ACT UP are still used by organizations that take inspiration form them today.
 
 ### Bibliography:
 * Manuscripts and Archives Division, The New York Public Library. "AIDS is a primary issue. Demand a national plan on AIDS." _New York Public Library Digital Collections_. Accessed March 9, 2018.
 * “ACT UP Capsule History.” ACT UP New York. Acccessed March 9, 2018.
-* Manuscripts and Archives Division, The New York Public Library. "ACT UP. [Activists at subway station.]" The New York Public Library Digital Collections. 1989.
-* Manuscripts and Archives Division, The New York Public Library. "Silence = Death" The New York Public Library Digital Collections. 1969 - 1997.
+* Manuscripts and Archives Division, The New York Public Library. "ACT UP. [Activists at subway station.]" _The New York Public Library Digital Collections_. 1989.
+* Manuscripts and Archives Division, The New York Public Library. "Silence = Death" _The New York Public Library Digital Collections_. 1969 - 1997.
