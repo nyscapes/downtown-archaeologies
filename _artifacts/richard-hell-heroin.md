@@ -1,7 +1,18 @@
 ---
 title: Heroin in the East Village
 author: abg447
-slug: And Looking Towards the Future
+library: fales
+library-collection: "Richard Hell Papers"
+box: 10
+folder: 751
+copyright-status: 0
+copyright-holder: Richard Hell
+artifact-name: "Heroin Notebook"
+artifact-date: c. 1990
+card-image-url: "https://i.imgur.com/7yZlOLE.jpg"
+card-image-text: "Heroin Notebook"
+tags: ["heroin", "east village",
+"richard hell", "punk"]
 ---
 
 [Richard Hell](https://en.wikipedia.org/wiki/Richard_Hell) was born Richard Lester Meyers in the late 1940’s in Kentucky. He took on the stage name later on in life, after he had ditched high school for New York in the 1960’s and went on to become one of the major players in the East Village’s punk scene. He played in various bands and clubs throughout New York in the 70’s, 80’s, and early 90’s, but the focus of this post is not on his music career.
@@ -27,10 +38,6 @@ This is not a time I would want to go back to and it is certainly not a time tha
 I do not think artifacts should just be things that gather dust for the rest of eternity. Historical artifacts serve a purpose: teaching us about the past. Hopefully we learn everything we can from the past and prevent ourselves from making the same mistakes in the future. That’s the purpose Hell’s heroin research should be fulfilling. His journal should be transcribed and published online for the whole world to see. His words should be taught in classrooms and anti-drug lectures. His research can even help the government as they finally start tackling the opioid epidemic.
 
 In conclusion, I think Hell’s journal serves a much higher purpose than to sit in the Fales Library and be a part of some student’s class project. There is so much to learn from all of his many journals and papers, but this one in particular is special. This journal reflects what is currently going on in the world while taking us back to a past that luckily no longer exists (and hopefully it stays that way). And it further takes us into the East Village, shining a light on what I imagine must have been its darkest days.
-
-Artifact
-
-Richard Hell Papers, Series III: Projects, Subseries N: Heroin Research, Box 10, Folder 751 “Heroin Notebook”
 
 Works Cited
 
