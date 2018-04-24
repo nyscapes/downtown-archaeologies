@@ -1,21 +1,16 @@
 ---
 title: Meryem's Artifact Post
 author: msh493
-slug: Meryem'sSlug
-latitude:
-longitude:
-official-link:
-wikipedia-link:
 library: fales
-Collection:
-Box: 20
-Folder: 941
-copyright-status:2
+collection:
+box: 20
+folder: 941
+copyright-status: 2
 artifact-name: "Jane Greer Painting"
-card-image-url:"https://i.imgur.com/fm6Ufcl.jpg"
+card-image-url: "https://i.imgur.com/fm6Ufcl.jpg"
 card-image-text: "Jane Greer Painting"
 card-image-credit: Meryem Hasan
-tags: ["painting", "feminisism", "Soho","art", "A.I.R"]
+tags: painting feminisism Soho art A.I.R
 
 ---
 ![Greer](https://i.imgur.com/fm6Ufcl.jpg)
