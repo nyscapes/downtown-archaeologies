@@ -6,6 +6,17 @@ latitude:
 longitude:
 official-link:
 wikipedia-link:
+library: fales
+Collection:
+Box: 20
+Folder: 941
+copyright-status:2
+artifact-name: "Jane Greer Painting"
+card-image-url:"https://i.imgur.com/fm6Ufcl.jpg"
+card-image-text: "Jane Greer Painting"
+card-image-credit: Meryem Hasan
+tags: ["painting", "feminisism", "Soho","art", "A.I.R"]
+
 ---
 ![Greer](https://i.imgur.com/fm6Ufcl.jpg)
 This painting was created by Jane Greer and was featured in an exhibition at the A.I.R. gallery between May 27 to June 14, 1997. Although there is little information identifying the title of this painting, it can be inferred that it was part of Jane Greer’s series of cranes as this was one of her common painting practices. This piece appears to be a painting used with acrylic painting and possibly paper cutting, as this was one of Greer’s areas of expertise. The painting is clearly influenced by nature and animals as the bottom features 5 cranes and another crane in a white box. The top left corner also features an animal, which may not be noticed at the first glance. It is difficult to discern what actually the animal is, but it appears to look like a seal. The painting’s main strength is the mastery of color that Greer implements. Looking closely, Greer started by adding black as the background and layering colors on top. Greer uses all of the colors of the rainbow with a main focus on red and yellow. By making black the background, the colors on top look even more vibrant. Another intriguing aspect of this piece is the array of letters of various sizes covering the entire canvas. When I first examine the piece, I assumed Greer created a short poem or essay to accompany her art. However, I could only see a couple of words including the phrase “Just Like This” and the words “Sea” and “Punch”. The rest appears to be random letters strewn together. Because background information of this is piece is unavailable online, it is unknown what these letters really mean. I believe that these letters were created to simply add another visually interesting element to the painting and should be examined as abstract art. Overall, this piece shows many strengths in its composition and choice of color.
@@ -21,12 +32,8 @@ Greer’s painting was featured in the A.I.R. Gallery, the first all female arti
 Overall, Jane Greer’s painting not only shows a strong sense of mastery in modern art, but also a represents a rich history in feminism and the culture within its time period. The artist herself was a major contributor to the emerging culture within Soho and an outspoken member of women involved in second-wave feminism. This painting was also showcased in the A.I.R. gallery that really sought to give women the opportunity to pursue a career in the arts. Jane Greer’s piece represents an important intersection between the art world and feminism and Downtown New York in the 1970s.
 
 
-Works Cited
-
-“A.I.R.: A Short History .” A.I.R.,
-
-Bowen, Christopher. “SOHO: HISTORY, ART, CULTURE – AND PLENTY OF SHOPPING.” New York Post, New York Post, 13 Mar. 2001,
-
-“Cut Paper.” A.I.R. , 24 Dec. 1995.
-
-Greenberg, Jonathan. “Jane Greer, Pioneering Soho Artist, Dies at 81.” Serving West and East Village, Chelsea, SoHo, Hudson Square, NoHo, Little Italy, Chinatown and the Lower East Side, The Village, 4 Jan. 2018,
+### Bibliography:
+* “A.I.R.: A Short History .” A.I.R.,
+* Bowen, Christopher. “SOHO: HISTORY, ART, CULTURE – AND PLENTY OF SHOPPING.” New York Post, New York Post, 13 Mar. 2001,
+* “Cut Paper.” A.I.R. , 24 Dec. 1995.
+* Greenberg, Jonathan. “Jane Greer, Pioneering Soho Artist, Dies at 81.” Serving West and East Village, Chelsea, SoHo, Hudson Square, NoHo, Little Italy, Chinatown and the Lower East Side, The Village, 4 Jan. 2018,
