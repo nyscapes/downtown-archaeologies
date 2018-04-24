@@ -2,13 +2,21 @@
 title: "Alan Klein Papers ACT UP in Greenwich Village"
 author: sm6381
 slug: alankleindocuments
-latitude:
-longitude:
+library: Fales
+library-collection: "Alan Klein Papers"
+box: 5
+folder: 8
+copyright-status: 1
+artifact-name: "AIDS: A Lesiban Issue?"
+artifact-date: 1980s
 official link: http://actupny.org/
 wikipedia link: https://en.wikipedia.org/wiki/ACT_UP/
+card-image-url: https://i.imgur.com/WSwZq02.jpg
+card-image-text: "ACT UP Poster"
+tags: "AIDS","1980s","ACT UP", "LGBT"
 carousel:
- - url: https://i.imgur.com/WSwZq02.jpg
-   alt: "ACT UP Poster"
+ - url:
+   alt:
    cap: AIDS is a Primary Issue
  - url: https://i.imgur.com/UfgzRXC.jpg
    alt: "NYT Coverage of Wall Street Protest"
