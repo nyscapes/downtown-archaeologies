@@ -43,7 +43,10 @@ Queer Nation remains active today, even though their actions in the early 1990s 
 
 Queer Nation is a cultural landmark that is quintessentially New York, and it only adds to the rich history of non-conforming protest and action in Downtown Manhattan. Telling the story of Downtown Manhattan, particularly Greenwich Village, would be incomplete without speaking of the Gay Rights Movement, and Queer Nation played a significant role. Bobst Library offers a rich collection of materials relating to Queer Nation, preserving t-shirts, media lists, newsletters, and signage from a time and place where activism was desperately needed. Thanks to this archived collection and the memory of its members, Queer Nation will forever be a part of the spatiohistory of Downtown Manhattan.  
 
-Works Cited
-Bronski, Michael. A Queer History of the United States. Beacon Press, 2011.
-Eaklor, Vicki. Queer America: A GLBT History of the 20th Century. Greenwood Press, 2008.
-Sante, Luc. Low Life: Lures and Snares of Old New York. Farrar, Straus, and Giroux, 1991.
+Bibliography
+
+* Bronski, Michael. _A Queer History of the United States_. Beacon Press, 2011.
+
+* Eaklor, Vicki. _Queer America: A GLBT History of the 20th Century_. Greenwood Press, 2008.
+
+* Sante, Luc. _Low Life: Lures and Snares of Old New York. Farrar, Straus, and Giroux_, 1991.
