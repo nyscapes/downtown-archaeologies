@@ -12,7 +12,9 @@ artifact-name: "Club 57"
 artifact-date: 1979-02-02
 card-image-url: "https://i.imgur.com/auP6LUE.jpg"
 card-image-text: "Debbie Harry"
+card-image-credit: Moacir P. de Sá Pereira
 tags: flyer music club-57 peter-dougherty
+nodes: club57 nuyoricanPoetsCafe
 carousel:
   - url: https://i.imgur.com/lz87ol6.jpg
     alt: "Cogito map" 
