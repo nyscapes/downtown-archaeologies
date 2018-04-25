@@ -50,6 +50,10 @@ Traveling further in time, the following paragraph describes a New York in 1927 
 
 At the bottom of the poster, written in larger and bolder letters than in any of the other paragraphs, Quinones articulates the societal climate of 1990s New York. Interestingly, this description does not differ from the perspective of many New Yorkers today. He talks about a city still infatuated with the American dream but still plagued with issues that appear unsolvable to his community. He writes, “Trump’s a material guy with a material girl, his marriage and empire are a news soap-opera swirl. The poor people truly believe they’ll gain on him someday with a winning lotto ticket.” Quinones uses Donald Trump as a symbol for the epitome of 1990s New York City wealth and success, providing an interesting critique into his role as a government official from the perspective of a reader today.
 
-**YOUR HOUSE IS MINE**
+### YOUR HOUSE IS MINE
 
 The compilation of street posters by Bullet Space provided a visible outlet for artists to express voices of social unrest and upheaval that had long gone unheard. The project took over 3 years to complete and was comprised of a variety of artists battling a variety of grave realities.
+
+### Bibliography
+
+* Text 1. _Title_.
