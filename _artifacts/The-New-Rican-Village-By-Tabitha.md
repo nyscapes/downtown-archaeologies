@@ -1,5 +1,5 @@
 ---
-Title: Nuyorican Arts
+Title: Nuyorican Arts en Loisaida
 Author: Tmp365
 Slug: The New Rican Village
 library: Centro Center for Puerto Rican Studies
