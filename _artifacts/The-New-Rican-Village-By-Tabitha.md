@@ -113,6 +113,7 @@ venues.
 
 
 ### Bibliography
+
 * Morales, Ed "[Places in the Puerto Rican Heart Eddie
 Figueroa and the Nuyorican Imaginary](https://centropr.hunter.cuny.edu/centrovoices/letras/places-puerto-rican-heart-eddie-figueroa-and-nuyorican-imaginary)."
 _centropr.hunter.cuny.edu_. Accessed: April 23,2018.
