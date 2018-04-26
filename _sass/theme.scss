@@ -8,8 +8,15 @@
   }
 }
 
-.card-body p {
-  text-indent: 0;
+.card-body {
+  p {
+    text-indent: 0;
+  }
+
+  .card-image-credit {
+    margin-top: -1.25rem;
+    margin-right: -1.25rem;
+  }
 }
 
 .bg-custom-dark {

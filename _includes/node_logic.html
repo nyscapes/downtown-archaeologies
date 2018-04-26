@@ -1,0 +1,13 @@
+{% assign node = site.data.nodes[page.slug] %}
+{% if page.author %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.data.authors[node.author] %}
+{% endif %}
+{% if page.coordinates %}
+  {% assign coordinates = page.coordinates %}
+{% else %}
+  {% assign coordinates = node.coordinates %}
+{% endif %}
+{% assign name = node.name %}
+
