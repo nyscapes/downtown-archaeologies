@@ -11,6 +11,7 @@ artifact-name: "Together Forever Tour Press Packet"
 artifact-date: 1987-06
 card-image-url: "https://i.imgur.com/IQIdfVy.jpg"
 card-image-text: "Together Forever Tour Promo"
+nodes: defJam
 tags: ["rap", "music", "tour", "race","peter dougherty"]
 ---
 ## How Def Jam Sold Rap to the Masses   
