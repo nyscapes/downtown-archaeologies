@@ -26,8 +26,8 @@ The piece discusses the change in style once again — he states that this summe
 
 Another article discusses the reasons why certain artists create the way they do. It looks at a variety of factors which are thought-provoking for the reader. Reflecting on this myself, artists who are sensitive to their surroundings and aware of the modern world are often influenced in ways they may not recognize. Artists are additionally influenced by other artists and their predecessors. Art has become a tool that is used additionally in response to social or political issues.
 
-Works Cited:
+### Bibliography
 
-“1980s Fashion: Styles, Trends & History.” RetroWaste, May 2015.
+* “1980s Fashion: Styles, Trends & History.” RetroWaste, May 2015.
 
-Ewart, Asia. “Danceteria (1979-1986).” NY Daily News, 5 July 2017.
+* Ewart, Asia. “Danceteria (1979-1986).” NY Daily News, 5 July 2017.
