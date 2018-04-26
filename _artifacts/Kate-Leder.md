@@ -28,12 +28,11 @@ As my artifact included the address where both artists would live over the cours
 
 This avant garde performance piece becomes more intense when discussed in conversation with the speed and atmosphere of New York City as a whole. One is constantly surrounded by others and never touching, yet it’s so easy to bump into someone on the street. There’s an entire juxtaposition between feeling isolated or disconnected, yet living in one of the most populated cities in the world. We’ve discussed this perplexing feeling quite a bit throughout our class discussions, but this is something that Hseih and Montano touch upon throughout their Rope Piece. Quite quickly, they realized they were not very fond of each other. Hsieh shared in a 1983 interview that they argued frequently, yet notes that “this piece is about being like an animal, naked” (Kim). “We cannot hide our negative sides”, he states, as “it’s more than just honesty, we show our weakness” (Kim). Do we get annoyed and upset by being with people 24/7? Does the constant influx of people and oversaturation of bodies within New York force us to be vulnerable or does it push us to be tougher and stronger than we may be? The intimacy of being attached to someone for an entire year forces this vulnerability, to openly portray our weaknesses—all strong ideas demonstrated throughout a single performance piece on the second floor of 11 Hudson Street.
 
-Works Cited
+### Bibliography
+* Carr, C. “[The Fiery Furnace: Performance in the '80s, War in the '90s.]” JSTOR, 2005, _www.jstor.org/stable/4488616_.
 
-Carr, C. “The Fiery Furnace: Performance in the '80s, War in the '90s.” JSTOR, 2005, www.jstor.org/stable/4488616. 
+* Cotter, Holland. “['The Third Mind: American Artists Contemplate Asia: 1860-1989' at the Guggenheim.]” Los Angeles Times, Los Angeles Times, 1 Feb. 2009, _www.latimes.com/entertainment/la-ca-asia1-2009feb01-story.html_.
 
-Cotter, Holland. “'The Third Mind: American Artists Contemplate Asia: 1860-1989' at the Guggenheim.” Los Angeles Times, Los Angeles Times, 1 Feb. 2009, www.latimes.com/entertainment/la-ca-asia1-2009feb01-story.html. 
+* Kim, Demie. “[The Performance Artist Who Tied Himself to a Woman for a Year.]” Artsy, Artsy, 19 Dec. 2017, _www.artsy.net/article/artsy-editorial-performance-artist-tied-woman-year_.
 
-Kim, Demie. “The Performance Artist Who Tied Himself to a Woman for a Year.” Artsy, Artsy, 19 Dec. 2017, www.artsy.net/article/artsy-editorial-performance-artist-tied-woman-year. 
-
-Yarrow, Andrew L. “TRIBECA, A GUIDE TO ITS OLD STYLES AND ITS NEW LIFE.” The New York Times, The New York Times, 18 Oct. 1985, www.nytimes.com/1985/10/18/arts/tribeca-a-guide-to-its-old-styles-and-its-new-life.html.
+* Yarrow, Andrew L. “[TRIBECA, A GUIDE TO ITS OLD STYLES AND ITS NEW LIFE.]” The New York Times, The New York Times, 18 Oct. 1985, _www.nytimes.com/1985/10/18/arts/tribeca-a-guide-to-its-old-styles-and-its-new-life.html_. 
