@@ -1,7 +1,13 @@
 ---
 title: Details Magazine: Volume 1 Issue 3
 author: jas1634
-slug: AllenSlug
+library: fales
+library-collection: "Details Magazine"
+box: 1
+Folder: 3
+copyright-status: 2
+copyright-holder:
+tags: culture art nightlife fashion
 
 
 For my artifact post, I decided to examine Details magazine and how the publication presented the culture around street fashion as well as New York nightlife. Throughout the history of its publication, Details focused on fashion, style, and culture, but at times also tackled political and social matters. Through these magazines, the impact of various trends and movements in New York City can be traced. Additionally, the way nightlife evolved is displayed through creative advertisements. Upon looking through various issues from the 1980s, I found the earlier issues from 1982 the most interesting to study. The later issues became more generalized, presumably trying to appeal to a larger audience. The specific artifact I am looking at is Volume 1, issue 3, which was published in the summer of 1982.
