@@ -10,7 +10,7 @@ copyright-holder: "Some name"
 artifact-name: "New Rican Village"
 artifact-date: 1978-1980
 card-image-url: https://i.imgur.com/sDTyxFW.jpg
-card-image-text:"Puerto Rican Renaissance"
+card-image-text: "Puerto Rican Renaissance"
 tags: flyer Nuyorican-movement Puerto-Rican-Roots Loisaida-arts Poster Music Dance Theatre
 carousel:
   - url: https://i.imgur.com/LnwlP6k.jpg
@@ -23,6 +23,7 @@ carousel:
     alt: "Poster"
     cap: "Puerto Rican Renaissance"
 ---
+
 The three artifacts presented in the carousel above are found in Hunter
 College's Centro: Center for Puerto Rican Studies, are posters/pamphlets
 which all symbolize the importance of Nuyorican arts. The
@@ -115,6 +116,7 @@ venues.
 
 
 ### Bibliography
+
 * Morales, Ed "[Places in the Puerto Rican Heart Eddie
 Figueroa and the Nuyorican Imaginary](https://centropr.hunter.cuny.edu/centrovoices/letras/places-puerto-rican-heart-eddie-figueroa-and-nuyorican-imaginary)."
 _centropr.hunter.cuny.edu_. Accessed: April 23,2018.
