@@ -47,6 +47,29 @@ pyramidClub:
   name: Pyramid Club
   wikipedia-link: https://en.wikipedia.org/wiki/Pyramid_Club
   coordinates: [40.725818, -73.983949]
+CBGB:
+  author: bg1506
+  name: CBGB
+  wikipedia-link: https://en.wikipedia.org/wiki/CBGB
+  coordinates: [40.725278, -73.991944]
+NewMuseum:
+  author: vr750
+  name: New NewMuseum
+  wikipedia-link: https://en.wikipedia.org/wiki/New_Museum
+  coordinates: [40.741895, -73.989308]
+gentrification:
+  author: lrd306
+  name: Gentrification
+  wikipedia-link: https://en.wikipedia.org/wiki/Gentrification
+  card-image-url: https://i.imgur.com/kDMqTuT.jpg
+  card-image-credit: The internet
+  card-image-text: New Buildings
+graffiti:
+  author: cc4815
+  name: Graffiti
+keithHaring:
+  author: sm6381
+  name: Keith Haring
 airgalley:
   author: msh493
   wikipedia-link: https://en.wikipedia.org/wiki/A.I.R._Gallery
