@@ -1,7 +1,6 @@
 ---
 title: Huge Killer Ship and the Downtown Club Scene
 author: bg1506
-slug: brycegoyerdowntownclubs
 library: fales
 library-collection: "Pyramid Club Flyers"
 box: 1
