@@ -12,8 +12,8 @@ artifact-name: "Fashion Moda Photograph"
 artifact-date: c. 1985
 card-image-url: "https://i.imgur.com/dj677Xx.jpg"
 card-image-text: "From the Fashion Moda Archive. From left to right: Easy-G, Eins, Brasz, Daze, Haring, Headley, Neal?"
-nodes: defJam,
-tags: ["rap", "music", "art", "race","fashion moda", "Gallery", "Keith Haring,"]
+nodes: defJam
+tags: ["rap", "music", "art", "race","fashion moda", "Gallery", "Keith Haring"]
 ---
 
 Downtown artistry is not necessarily geographically bound. While an overwhelming majority of what encompasses Downtown Manhattan life in the mid-to-late 20th century physically exists below 14th street, there is a significant amount of artists who have seen their success come to a fruition in other parts of New York City. Fales Library's Downtown Collection is synonymous with a rich archive of traditionally Downtown artists spreading the spirit of the experimental, post-modern art scene into new spaces. One of these spaces was the South Bronx Fashion Moda building, first opened in 1978 by Stefan Eins. Conceived as a mere space for contemporary art, Fashion Moda hosted a variety of non-traditional, conceptual forms of art installations and showcases created by artists all over the city, creatively encapsulating the edgy downtown style, and marrying it with the up-and-coming urban charm of graffiti art. The result was a dedicated area for the exploration of What is art? In a context where traditional schooling, formal education, and classic talent were largely overlooked.
