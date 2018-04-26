@@ -1,7 +1,7 @@
 ---
 title: Nuyorican Arts en Loisaida
 author: tmp365
-library: Centro Center for Puerto Rican Studies
+library: centro
 library-collection: "Lourdes Torres Papers"
 box: 10
 folder: 19
