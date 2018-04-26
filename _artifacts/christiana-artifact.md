@@ -12,7 +12,7 @@ artifact-date: 1988-1993
 card-image-url: "https://i.imgur.com/VxRGCbC.jpg"
 card-image-text: "Your House Is Mine"
 card-image-credit: Christiana Collins
-tags: LES downtown graffiti gentrification
+tags: LES downtown graffiti housing healthcare resistance
 carousel:
   - url: https://i.imgur.com/j6tty0x.jpg
     alt: "Subway Map Graffiti"
@@ -20,9 +20,6 @@ carousel:
   - url: https://i.imgur.com/h4hyykz.jpg
     alt: "Housing"
     cap: "Under the Brooklyn Bridge, Lady Pink"
-  - url: https://i.imgur.com/IHpDwvm.jpg
-    alt: "Government"
-    cap: "Democracy, David Wojnarowicz"
   - url: https://i.imgur.com/IHpDwvm.jpg
     alt: "Government"
     cap: "Democracy, David Wojnarowicz"
