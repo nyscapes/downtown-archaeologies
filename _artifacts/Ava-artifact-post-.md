@@ -9,7 +9,7 @@ copyright-status: 2
 copyright-holder: "Martha Wilkerson"
 artifact-name: "The Dungeon Series"
 artifact-date: (1978–1979)
-card-image-url: ![Sophistocated Sellers](https://i.imgur.com/Wawvsj6.jpg)
+card-image-url: (https://i.imgur.com/Wawvsj6.jpg)
 card-image-text: A Sophistocated Terence Sellers
 card-image-credit: Ava Solina
 tags: art feminism prostitution culture  
