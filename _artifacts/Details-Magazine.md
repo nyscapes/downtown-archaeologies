@@ -3,6 +3,7 @@ title: Details Magazine: Volume 1 Issue 3
 author: jas1634
 library: fales
 library-collection: "Details Magazine"
+card-image-url: "https://i.imgur.com/5HFExGW.jpg"
 box: 1
 Folder: 3
 copyright-status: 2
