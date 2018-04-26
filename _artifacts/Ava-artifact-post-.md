@@ -1,19 +1,20 @@
 ---
 title: “The Dungeon Series” Artifact Post
 author: ans614
-slug: Avaslug
 library: "fales"
 collection: "Terence Sellers Papers"
 box: 1
 Folder: 425
 copyright status: 2
 copy right holder: "Martha Wilkerson"
-artifact (pic) name: "The Dungeon Series"
-artifact (pic) date: (1978-1979)
+artifact-name: "The Dungeon Series"
+artifact-date: (1978-1979)
+card-image-url: ??
+card-image-text: ??
 tags: art feminism prostitution culture  
 ---
 
-"The Dungeon Series", 1978-1979, Box 1, Folder: 425, Terence Sellers Papers MSS.167, Fales Library & Special Collections, New York University Libraries.  
+"The Dungeon Series", 1978-1979, Box 1, Folder: 425, Terence Sellers Papers MSS.167, Fales Library & Special Collections, New York University Libraries.     
 
 If there is one theme that has resonated with me through every part of the course material we have covered so far, it is that New York City is not what it once was. Manhattan was not always the thriving, bustling metropolis that it is today. The majority of the city was dirty, destitute, seedy, dangerous, and crime ridden. While certain areas of Manhattan are still like this, the majority of the city has changed, especially the areas in lower Manhattan such as Soho, Noho, Tribeca, and other areas below 14th street.
 
@@ -38,6 +39,8 @@ New York itself was a facade: to everyone else, it presented itself as a land of
 While observing Seller’s binder, I was also able to gain a sense of the art scene of downtown Manhattan in the 70s and 80s. During this time, art was undergoing a bit of a transformation. Everything and anything went in terms of art. Keith Haring’s use of lines to create masterpieces commented on social movements of the time. Graffiti was now a legitimate form of art and subway cars and building walls were now canvases covered in colorful words and images. The East Village was a haven for hipsters engulfed by the art scene. Jean Michel Basquiat gained attention for his graffiti style work in the Lower East Side under the name of SAMO.[^footnote-3] Sellers was no exception. In “The Dungeon Series,” Sellers' style was new, provocative, and sometimes shocking. Like the other up and coming artists, Sellers and DeSana challenged previous conceptions of what “art” was through her open and provocative photos. Because of this, she helped to shed light on a new era of modern art.
 
 In “The Dungeon Series,” Sellers and DeSana created, and thus promoted, art that was viewed as “anti art” during this time because it was so different and deviated from previous conceptions of what “art” was. Sellers helped to pave the way for more forms of modern art and modern artists. It is collections like “The Dungeon Series” that shed light on how art did not have to be limited to specific genres, styles, and concepts. Terence Sellers work opened up a new conversation about art and sparked people to ask, “well, what is art?”
+
+Bibliography
 
 [^footnote-1]: JP. "DIRTY, DANGEROUS & DESTITUTE. NEW YORK IN THE 70s- ALLAN TANNENBAUM." The Selvedge Yard. May 17, 2014. Accessed March 20, 2018. https://selvedgeyard.com/2010/04/15/hookers-hypodermics-new-york-in-the-70s/.
 

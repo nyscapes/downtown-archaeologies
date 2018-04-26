@@ -1,7 +1,6 @@
 ---
-Title: Nuyorican Arts en Loisaida
-Author: Tmp365
-Slug: The New Rican Village
+title: Nuyorican Arts en Loisaida
+author: tmp365
 library: Centro Center for Puerto Rican Studies
 library-collection: "Lourdes Torres Papers"
 box: 10
@@ -11,9 +10,8 @@ copyright-holder: "Some name"
 artifact-name: "New Rican Village"
 artifact-date: 1978-1980
 card-image-url: [https://i.imgur.com/sDTyxFW.jpg]
-card-image-text:"Puerto Rican Renaissance"
-tags: flyer Nuyorican-movement Puerto-Rican-Roots Loisaida-arts Poster Music
-Dance Theatre
+card-image-text: "Puerto Rican Renaissance"
+tags: flyer Nuyorican-movement Puerto-Rican-Roots Loisaida-arts Poster Music Dance Theatre
 carousel:
   - url: https://i.imgur.com/LnwlP6k.jpg
     alt: "Pamphlet"
@@ -115,11 +113,9 @@ venues.
 
 ### Bibliography
 * Morales, Ed "[Places in the Puerto Rican Heart Eddie
-Figueroa and the Nuyorican Imaginary]
-(https://centropr.hunter.cuny.edu/centrovoices/letras/places-puerto-rican-heart-eddie-figueroa-and-nuyorican-imaginary)."
+Figueroa and the Nuyorican Imaginary](https://centropr.hunter.cuny.edu/centrovoices/letras/places-puerto-rican-heart-eddie-figueroa-and-nuyorican-imaginary)."
 _centropr.hunter.cuny.edu_. Accessed: April 23,2018.
 
 * Rosemen, Marina "[The New Rican Village: Artists in Control
-of the Image-Making Machinery]
-(https://www.jstor.org/stable/pdf/780283.pdf?refreqid=excelsior:f2dbad7ef60cb66fa49fe7885f05e1f0)." _Jstor.org_. Accessed: April
+of the Image-Making Machinery](https://www.jstor.org/stable/pdf/780283.pdf?refreqid=excelsior:f2dbad7ef60cb66fa49fe7885f05e1f0)." _Jstor.org_. Accessed: April
 23,2018
