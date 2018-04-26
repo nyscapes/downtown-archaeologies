@@ -34,7 +34,8 @@ tompkinsSquarePark:
   name: Tompkins Square Park
   wikipedia-link: https://en.wikipedia.org/wiki/Tompkins_Square_Park
   coordinates: [40.726389, -73.981667]
-Def-Jam:
+defJam:
+  author: mas1342
   name: 298 Elizabeth St.
   wikipedia-link: https://en.wikipedia.org/wiki/Def_Jam_Recordings
   coordinates: [40.724940, -73.993039]
@@ -43,6 +44,6 @@ keithHaring:
   name: Keith Haring
   wikipedia-link: https://en.wikipedia.org/wiki/Keith_Haring
   card-image-url: https://commons.wikimedia.org/wiki/File:Keith_Haring_(1986).jpg#/media/File:Keith_Haring_(1986).jpg
-  card-image-text: Wikipedia image
+  card-image-text: Wikipedia image, Haring 198
   card-image-credit: Wikimedia Commons
 ---
