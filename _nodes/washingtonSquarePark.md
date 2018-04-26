@@ -1,10 +1,5 @@
 ---
-title: Washington Square Park
-author: mds17
 slug: washingtonSquarePark
-latitude: 40.730833
-longitude: -73.9975
-wikipedia-link: https://en.wikipedia.org/wiki/Washington_Square_Park
 ---
 
 [Text from Wikipedia, for now.]

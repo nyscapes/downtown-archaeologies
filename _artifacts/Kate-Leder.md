@@ -11,12 +11,10 @@ artifact-name: "Statement"
 artifact-date: 1983-06
 card-image-url: "https://i.imgur.com/6xNFKFf.jpg"
 card-image-text: "One Year - Rope Piece Statement"
-tags: ["performance piece", "art", "performance", "experimental"]
+tags: performance-piece art performance experimental
 ---
 
 
-
-![One Year Performance Rope Piece](https://i.imgur.com/6xNFKFf.jpg)
 
 When visiting Fayles Library, I was immediately drawn to Tehching Hsieh and his work as a performance artist. Most specifically, I decided to take a closer look at Hsieh’s “One Year Performance (Rope Piece)” in which he was physically tied to Linda Montano for an entire year, only separated by an eight-foot rope. This single artifact was enclosed in an entire folder of Montano’s letters and notes detailing her own experiences and struggles within the piece. Yet, the original copy detailing the performance was what stood out to me. The official statement reads the details of the art piece, specifically that they “will never touch each other during the year”. It outlines the starting date of July 4th 1983 at 6pm, and ending date of July 4th 1984 at 6pm. It was simple, typed up in black ink from a typewriter. Basic and mundane, hinting at the underlying concept of the mundane that is prevalent throughout all of Hsieh’s work. 365 days tied to the same person—always with them, but never touching.
 
@@ -30,8 +28,12 @@ As my artifact included the address where both artists would live over the cours
 
 This avant garde performance piece becomes more intense when discussed in conversation with the speed and atmosphere of New York City as a whole. One is constantly surrounded by others and never touching, yet it’s so easy to bump into someone on the street. There’s an entire juxtaposition between feeling isolated or disconnected, yet living in one of the most populated cities in the world. We’ve discussed this perplexing feeling quite a bit throughout our class discussions, but this is something that Hseih and Montano touch upon throughout their Rope Piece. Quite quickly, they realized they were not very fond of each other. Hsieh shared in a 1983 interview that they argued frequently, yet notes that “this piece is about being like an animal, naked” (Kim). “We cannot hide our negative sides”, he states, as “it’s more than just honesty, we show our weakness” (Kim). Do we get annoyed and upset by being with people 24/7? Does the constant influx of people and oversaturation of bodies within New York force us to be vulnerable or does it push us to be tougher and stronger than we may be? The intimacy of being attached to someone for an entire year forces this vulnerability, to openly portray our weaknesses—all strong ideas demonstrated throughout a single performance piece on the second floor of 11 Hudson Street.
 
-Works Cited
-Carr, C. “The Fiery Furnace: Performance in the '80s, War in the '90s.” JSTOR, 2005, www.jstor.org/stable/4488616. 
-Cotter, Holland. “'The Third Mind: American Artists Contemplate Asia: 1860-1989' at the Guggenheim.” Los Angeles Times, Los Angeles Times, 1 Feb. 2009, www.latimes.com/entertainment/la-ca-asia1-2009feb01-story.html. 
-Kim, Demie. “The Performance Artist Who Tied Himself to a Woman for a Year.” Artsy, Artsy, 19 Dec. 2017, www.artsy.net/article/artsy-editorial-performance-artist-tied-woman-year. 
-Yarrow, Andrew L. “TRIBECA, A GUIDE TO ITS OLD STYLES AND ITS NEW LIFE.” The New York Times, The New York Times, 18 Oct. 1985, www.nytimes.com/1985/10/18/arts/tribeca-a-guide-to-its-old-styles-and-its-new-life.html.
+### Bibliography
+
+* Carr,C. “[The Fiery Furnace: Performance in the '80s, War in the '90s](http://www.jstor.org/stable/4488616?seq=1#page_scan_tab_contents).” _jstor.org_. Accessed March 24, 2018.
+
+* Cotter, Holland. “['The Third Mind: American Artists Contemplate Asia: 1860-1989' at the Guggenheim](www.latimes.com/entertainment/la-ca-asia1-2009feb01-story.html).” _latimes.com_. Accessed March 24, 2018.
+
+* Kim, Demie. “[The Performance Artist Who Tied Himself to a Woman for a Year.](https://www.artsy.net/article/artsy-editorial-performance-artist-tied-woman-year).” _artsy.net_. December 17, 2017. Accessed March 24, 2018.
+
+* Yarrow, Andrew L. “[TRIBECA, A GUIDE TO ITS OLD STYLES AND ITS NEW LIFE.](www.nytimes.com/1985/10/18/arts/tribeca-a-guide-to-its-old-styles-and-its-new-life.html).” _nytimes.com_. October 18, 1985. Accessed March 24, 2018.

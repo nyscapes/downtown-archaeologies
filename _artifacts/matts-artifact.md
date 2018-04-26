@@ -2,6 +2,16 @@
 title: The Queer National
 author: mck426
 slug: mattsartifact
+library: Fales
+library-collection: Avram Finkelstein Papers
+box: 6
+folder: 27
+copyright-status: 1
+artifact-name: "The Queer National"
+artifact-date: 1991-06-25
+card-image-url: "https://i.imgur.com/e5fVPvB.png"
+card-image-text: "Queer Nation"
+tags: ["LGBTQ","west village","queer nation","AIDS"]
 ---
 
 For my individual study of Downtown Manhattan, I decided to direct my attention on Downtown New York’s  LGBT history, specifically focusing on the history of Queer Nation through its archived materials in Bobst’s Fales Collection. Queer Nation is a queer activist organization, which was influential during its nascent years in the early 1990s as it sought to eliminate homophobia and increase LGBT visibility through provocative actions. In searching for a single artifact to examine Queer Nation’s footprint in the history of Downtown Manhattan, I discovered an issue of The Queer National, the group’s local newsletter, published in 1991, at Fales. The seven-page pamphlet is extremely rich and offers revealing information at such a pivotal moment in the history of the LGBT Rights Movement in New York.
@@ -35,7 +45,10 @@ Queer Nation remains active today, even though their actions in the early 1990s 
 
 Queer Nation is a cultural landmark that is quintessentially New York, and it only adds to the rich history of non-conforming protest and action in Downtown Manhattan. Telling the story of Downtown Manhattan, particularly Greenwich Village, would be incomplete without speaking of the Gay Rights Movement, and Queer Nation played a significant role. Bobst Library offers a rich collection of materials relating to Queer Nation, preserving t-shirts, media lists, newsletters, and signage from a time and place where activism was desperately needed. Thanks to this archived collection and the memory of its members, Queer Nation will forever be a part of the spatiohistory of Downtown Manhattan.  
 
-Works Cited
-Bronski, Michael. A Queer History of the United States. Beacon Press, 2011.
-Eaklor, Vicki. Queer America: A GLBT History of the 20th Century. Greenwood Press, 2008.
-Sante, Luc. Low Life: Lures and Snares of Old New York. Farrar, Straus, and Giroux, 1991.
+Bibliography
+
+* Bronski, Michael. _A Queer History of the United States_. Beacon Press, 2011.
+
+* Eaklor, Vicki. _Queer America: A GLBT History of the 20th Century_. Greenwood Press, 2008.
+
+* Sante, Luc. _Low Life: Lures and Snares of Old New York. Farrar, Straus, and Giroux_, 1991.
