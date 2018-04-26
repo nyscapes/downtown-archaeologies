@@ -1,5 +1,5 @@
 ---
-slug: def-jam
+slug: defJam
 ---
 
 ![298](https://i.imgur.com/jUyqao4.jpg)
