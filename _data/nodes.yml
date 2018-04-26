@@ -42,4 +42,11 @@ defJam:
   card-image-url: https://i.imgur.com/8dvJy4Q.jpg
   card-image-credit: The internet
   card-image-text: Flavor Flav and Chuck D.
+gentrification:
+  author: lrd306
+  name: Gentrification
+  wikipedia-link: https://en.wikipedia.org/wiki/Gentrification
+  card-image-url: https://i.imgur.com/kDMqTuT.jpg
+  card-image-credit: The internet
+  card-image-text: New Buildings
 ---
