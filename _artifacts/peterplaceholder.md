@@ -1,7 +1,20 @@
 ---
-title: Peter's artifact
+title: The Nick zedd Papers
 author: pet234
 slug: petersArtifact
+library: fales
+library-collection: "Nick Zedd Papers, 1937-2011 (bulk 1979-2008)."
+box: 1
+folder: 26
+copyright-status: 1
+copyright-holder: "some name"
+artifact-name: "Nick Zedd Papers 1995"
+artifact-date: 1995-01-01
+card-image-url: "https://i.imgur.com/QK9os7l.jpg"
+card-image-text: "Nick Zedd"
+tags: ["nick zedd", "film", "now wave", "cinema of transgression"]
+---
+
 ---
 
 Attempting to read through the notes of Nick Zedd offer an insight into the mind of a filmmaker who considers himself to be transgressive, coining the phrase “Cinema of Transgression”, a phrase which he uses to define the genre he works in. The artifacts I am working with are Nick Zedd’s first folder of notes from 1995. His use of shock value and black humor are apparent through these notes.

@@ -1,0 +1,38 @@
+<div class="card w-50 float-right m-1">
+  {% if page.card-image-url %}
+    <img class="card-img-top" src="{{ page.card-image-url }}" alt="{{page.card-image-text }}">
+  {% endif %}
+  <div class="card-body">
+    {% if page.card-image-credit %}
+    <div class="card-image-credit text-right w-100"><small><em>photo credit:</em> {{ page.card-image-credit }}</small></div>
+    {% endif %}
+    <h5 class="card-title">{{ page.artifact-name }}</h5>
+    {% if page.library == "centro" %}
+      <h6 class="card-subtitle">
+        <a href="https://centropr.hunter.cuny.edu/" target="_blank">Centro Center for Puerto Rican Studies</a>
+      </h6>
+    {% else %}
+      <h6 class="card-subtitle">
+        <a href="https://guides.nyu.edu/downtown-collection" target="_blank">Downtown Collection at the Fales Library</a>
+      </h6>
+    {% endif %}
+    <p>{{ page.library-collection }}<br>
+      Box {{page.box}}, folder {{page.folder}}<br>
+      {{ page.artifact-date | date: "%B %e, %Y" }}</p>
+
+    <h6 class="card-subtitle">Nodes</h6>
+    <p>
+      {% assign nodeArray = page.nodes | split: " " %}
+      {% for node in nodeArray %}
+      <a href="{{ site.baseurl }}/nodes/{{ node }}"><span class="badge badge-primary">{{ node }}</span></a>&nbsp;
+      {% endfor %}
+    <h6 class="card-subtitle">Tags</h6>
+    <p>
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="{{ site.baseurl }}/tags/{{ tag_name }}"><span class="badge badge-secondary">{{ tag_name }}</span></a>&nbsp;
+      {% endfor %}
+    </p>
+  </div>
+</div>
+

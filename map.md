@@ -1,6 +1,6 @@
 ---
 title: Our Downtown
-map: true
+coordinates: true
 ---
 
 <div style="height: 400px;" id="map"></div>
