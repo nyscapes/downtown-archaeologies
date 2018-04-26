@@ -1,7 +1,7 @@
 ---
 title: Nuyorican Arts en Loisaida
 author: tmp365
-library: Centro Center for Puerto Rican Studies
+library: centro
 library-collection: "Lourdes Torres Papers"
 box: 10
 folder: 19
@@ -9,7 +9,7 @@ copyright-status: 0
 copyright-holder: "Some name"
 artifact-name: "New Rican Village"
 artifact-date: 1978-1980
-card-image-url: [https://i.imgur.com/sDTyxFW.jpg]
+card-image-url: https://i.imgur.com/sDTyxFW.jpg
 card-image-text: "Puerto Rican Renaissance"
 tags: flyer Nuyorican-movement Puerto-Rican-Roots Loisaida-arts Poster Music Dance Theatre
 carousel:
@@ -23,6 +23,7 @@ carousel:
     alt: "Poster"
     cap: "Puerto Rican Renaissance"
 ---
+
 The three artifacts presented in the carousel above are found in Hunter
 College's Centro: Center for Puerto Rican Studies, are posters/pamphlets
 which all symbolize the importance of Nuyorican arts. The

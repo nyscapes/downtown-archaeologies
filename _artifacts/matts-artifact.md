@@ -9,6 +9,8 @@ folder: 27
 copyright-status: 1
 artifact-name: "The Queer National"
 artifact-date: 1991-06-25
+card-image-url: "https://i.imgur.com/e5fVPvB.png"
+card-image-text: "Queer Nation"
 tags: ["LGBTQ","west village","queer nation","AIDS"]
 ---
 
