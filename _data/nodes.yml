@@ -39,11 +39,24 @@ defJam:
   name: Def Jam
   wikipedia-link: https://en.wikipedia.org/wiki/Def_Jam_Recordings
   coordinates: [40.724940, -73.993039]
-keithHaring:
-  author: sm6381
-  name: Keith Haring
-  wikipedia-link: https://en.wikipedia.org/wiki/Keith_Haring
-  card-image-url: https://commons.wikimedia.org/wiki/File:Keith_Haring_(1986).jpg#/media/File:Keith_Haring_(1986).jpg
-  card-image-text: Wikipedia image, Haring 1986
-  card-image-credit: Wikimedia Commons
+  card-image-url: https://i.imgur.com/8dvJy4Q.jpg
+  card-image-credit: The internet
+  card-image-text: Flavor Flav and Chuck D.
+pyramidClub:
+  author: sn1815
+  name: Pyramid Club
+  wikipedia-link: https://en.wikipedia.org/wiki/Pyramid_Club
+  coordinates: [40.725818, -73.983949]
+NewMuseum:
+  author: vr750
+  name: New NewMuseum
+  wikipedia-link: https://en.wikipedia.org/wiki/New_Museum
+  coordinates: [40.741895, -73.989308]
+gentrification:
+  author: lrd306
+  name: Gentrification
+  wikipedia-link: https://en.wikipedia.org/wiki/Gentrification
+  card-image-url: https://i.imgur.com/kDMqTuT.jpg
+  card-image-credit: The internet
+  card-image-text: New Buildings
 ---
