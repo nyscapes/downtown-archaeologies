@@ -30,7 +30,7 @@ Clubs during this time were often faced with the same perils as New York in gene
 The two flyers that I chose from the Fales Collection show this nature of the Downtown club scene in NYC during the late 70s and 80s. They give us an insight into this unique culture. These flyers were an artistic expression, but they were also an interesting way to draw people into shows and clubs. In this way these flyers can reveal a lot about the club scene at this time and in this space. This scene wasn’t just for drugs and rock n’roll, it was also a place of an artistic renaissance. But, these flyers can also reveal a lot about the changing landscape of Downtown New York. It had transitioned from the Bowery Boys of the 1800s, to an escape for the Punk Scene and the LGBTQ community in the 1970s and 80s to now being trendy places for wealthy people to shop. These clubs were a haven for counter-culture, just as Downtown Manhattan often was. This area might have changed from the 1800s to the late 1900s, but until recently, it was a haven for the different, the poor, and the downtrodden.
 
 
-##Works Cited
+### Works Cited
 
 “A Couple of Clubs on the Bowery in 1983.” Ephemeral New York, 15 Sept. 2010, ephemeralnewyork.wordpress.com/2010/09/15/a-couple-of-clubs-on-the-bowery-in-1983/.
 
