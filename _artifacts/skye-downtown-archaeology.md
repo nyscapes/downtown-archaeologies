@@ -31,8 +31,8 @@ While Stonewall Inn is always tied together with the Gay Rights Movement as that
 
 ### Bibliography
 
-* Hedlund, Patrick. "Push to Make Pyramid Club City’s First ‘drag Landmark’." The Villager. Accessed March 28, 2018. http://thevillager.com/villager_241/pushtomake.html.
+* Hedlund, Patrick. "[Push to Make Pyramid Club City’s First ‘drag Landmark’](http://thevillager.com/villager_241/pushtomake.html)." The Villager. Accessed March 28, 2018.
 
-* Landau, Peter. "Pyramid Club." NYMag.com. Accessed March 28, 2018. http://nymag.com/listings/bar/pyramid_club/.
+* Landau, Peter. "[Pyramid Club](http://nymag.com/listings/bar/pyramid_club/)." NYMag.com. Accessed March 28, 2018.
 
-* Sheryl. "Pushing the Envelope on Avenue A." Greenwich Village Society for Historical Preservation. June 29, 2011. Accessed March 28, 2018. http://gvshp.org/blog/2011/06/29/pushing-the-envelope-on-avenue-a/.
+* Sheryl. "[Pushing the Envelope on Avenue A](http://gvshp.org/blog/2011/06/29/pushing-the-envelope-on-avenue-a/)." Greenwich Village Society for Historical Preservation. June 29, 2011. Accessed March 28, 2018.
