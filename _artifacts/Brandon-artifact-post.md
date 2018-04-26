@@ -10,7 +10,7 @@ artifact-name: "Club 57 Calendar"
 card-image-url: "https://i.imgur.com/EkGt3ku.jpg"
 card-image-text: "Club 57 Calendar"
 card-image-credit: Brandon Warrick
-nodes: club57, gentrification
+nodes: club57, gentrification, DIY
 tags: ["peter dougherty", "club 57", "performance", "saint marks", "downtown"]
 ---
 For my artifact, I decided to check out a few folders from the Peter Dougherty Papers of the Downtown Collection. I viewed folders 24 through 26. I wanted to get a look at some flyers and other promotional materials from the club scene in the late 70s and early 80s. While I viewed material from CBGB and some Clash materials as well, I landed on focusing on Club 57 and the materials regarding it in folder 26.
