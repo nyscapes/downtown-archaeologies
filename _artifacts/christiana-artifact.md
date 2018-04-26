@@ -23,9 +23,6 @@ carousel:
   - url: https://i.imgur.com/IHpDwvm.jpg
     alt: "Government"
     cap: "Democracy, David Wojnarowicz"
-  - url: https://i.imgur.com/IHpDwvm.jpg
-    alt: "Government"
-    cap: "Democracy, David Wojnarowicz"
   - url: https://i.imgur.com/zfTcqSA.jpg
     alt: "Police Brutality"
     cap: "Wake Up, Man!, Eric Drooker"
