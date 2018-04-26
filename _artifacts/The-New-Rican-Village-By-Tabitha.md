@@ -1,8 +1,7 @@
 ---
-Title: Nuyorican Arts en Loisaida
-Author: Tmp365
-Slug: The New Rican Village
-library: Centro Center for Puerto Rican Studies
+title: Nuyorican Arts en Loisaida
+author: tmp365
+library: centro
 library-collection: "Lourdes Torres Papers"
 box: 10
 folder: 19
@@ -10,10 +9,9 @@ copyright-status: 0
 copyright-holder: "Some name"
 artifact-name: "New Rican Village"
 artifact-date: 1978-1980
-card-image-url: [https://i.imgur.com/sDTyxFW.jpg]
+card-image-url: https://i.imgur.com/sDTyxFW.jpg
 card-image-text:"Puerto Rican Renaissance"
-tags: flyer Nuyorican-movement Puerto-Rican-Roots Loisaida-arts Poster Music
-Dance Theatre
+tags: flyer Nuyorican-movement Puerto-Rican-Roots Loisaida-arts Poster Music Dance Theatre
 carousel:
   - url: https://i.imgur.com/LnwlP6k.jpg
     alt: "Pamphlet"
@@ -49,7 +47,10 @@ exhibits that reflect the Puerto Rican culture in New York City in fusion
 with a relationship tied to the Island itself. In relation to the term
 "fusion", the artifact continues to highlight the visibility of two
 identities, one being Puerto Rican and the other being a Puerto Rican from
-New York City (Nuyorican). As the pamphlet states, "There are thousands of Puerto Ricans in New York City. They need a place to discover the meaning of their unique cultural transition and experience. They need a place to express themselves in their own terms. They need a forum in which to perfect and perform music, dance, theater and other art forms that they can't present in other channels."
+New York City (Nuyorican). As the pamphlet states,
+
+"There are thousands of Puerto Ricans in New York City. They need a place to discover the meaning of their unique cultural transition and experience. They need a place to express themselves in their own terms. They need a forum in which to perfect and perform music, dance, theater and other art forms that they can't present in other channels."
+
 This artifact brings to light that Puerto Rican cultural practices were
 excluded from other multi-faceted art spaces and this space wanted to bridge
 that gap.
@@ -115,11 +116,9 @@ venues.
 
 ### Bibliography
 * Morales, Ed "[Places in the Puerto Rican Heart Eddie
-Figueroa and the Nuyorican Imaginary]
-(https://centropr.hunter.cuny.edu/centrovoices/letras/places-puerto-rican-heart-eddie-figueroa-and-nuyorican-imaginary)."
+Figueroa and the Nuyorican Imaginary](https://centropr.hunter.cuny.edu/centrovoices/letras/places-puerto-rican-heart-eddie-figueroa-and-nuyorican-imaginary)."
 _centropr.hunter.cuny.edu_. Accessed: April 23,2018.
 
 * Rosemen, Marina "[The New Rican Village: Artists in Control
-of the Image-Making Machinery]
-(https://www.jstor.org/stable/pdf/780283.pdf?refreqid=excelsior:f2dbad7ef60cb66fa49fe7885f05e1f0)." _Jstor.org_. Accessed: April
+of the Image-Making Machinery](https://www.jstor.org/stable/pdf/780283.pdf?refreqid=excelsior:f2dbad7ef60cb66fa49fe7885f05e1f0)." _Jstor.org_. Accessed: April
 23,2018
