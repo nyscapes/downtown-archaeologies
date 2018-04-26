@@ -9,7 +9,7 @@ copyright-status: 0
 copyright-holder: "Some name"
 artifact-name: "New Rican Village"
 artifact-date: 1978-1980
-card-image-url: [https://i.imgur.com/sDTyxFW.jpg]
+card-image-url: https://i.imgur.com/sDTyxFW.jpg
 card-image-text: "Puerto Rican Renaissance"
 tags: flyer Nuyorican-movement Puerto-Rican-Roots Loisaida-arts Poster Music Dance Theatre
 carousel:
