@@ -40,6 +40,7 @@ defJam:
   wikipedia-link: https://en.wikipedia.org/wiki/Def_Jam_Recordings
   coordinates: [40.724940, -73.993039]
 pyramidClub:
+  author: sn1815
   name: Pyramid Club
   wikipedia-link: https://en.wikipedia.org/wiki/Pyramid_Club
   coordinates: [40.725818, -73.983949]
