@@ -1,7 +1,7 @@
 ---
 title: Nuyorican Arts en Loisaida
 author: tmp365
-library: Centro Center for Puerto Rican Studies
+library: centro
 library-collection: "Lourdes Torres Papers"
 box: 10
 folder: 19
@@ -23,6 +23,7 @@ carousel:
     alt: "Poster"
     cap: "Puerto Rican Renaissance"
 ---
+
 The three artifacts presented in the carousel above are found in Hunter
 College's Centro: Center for Puerto Rican Studies, are posters/pamphlets
 which all symbolize the importance of Nuyorican arts. The
