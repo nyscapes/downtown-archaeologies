@@ -1,5 +1,5 @@
 ---
-title: The Together Forever Tour
+title: After Hip-Hop Made It There: How Def Jam sold Rap to the Masses
 author: mas1342
 library: fales
 library-collection: "Peter Dougherty Collection"
@@ -15,7 +15,7 @@ tags: ["rap", "music", "tour", "race","peter dougherty"]
 ---
 
 "RUN-D.M.C. and the Beastie Boys, the country's two most popular rap music acts, have announced a 40-city summerlong tour tentatively scheduled to begin in Honolulu on June 13 and to culminate at Madison Square Garden on Aug. 17. The ''Together Forever'' tour will be one of the few in pop music history to give top billing to black and white acts of equal stature. Both Run-D.M.C.'s latest album, ''Raising Hell,'' and the Beastie Boys' debut, ''Licensed to Ill,'' have surpassed the three million mark in sales.""
-				-Stephen Holden, New York Times, May 20th 1987 
+				-Stephen Holden, New York Times, May 20th 1987
 
 This is the first paragraph of a photocopied article tucked into the pocket of a sleek black folder. The front of the folder has a large white sticker with the logos of the rap groups Run DMC and The Beastie Boys designed in black and red and notes a special appearance by rapper Davy D. This is the press packet for Def Jam’s 1987 Together Forever tour which began in Honolulu on June 13th, 1987 and ended in Philadelphia on August 16th of the same year. When opening the folder the first thing seen are the promotional photos for the tour crediting Laura Levine as a pair of negatives from the shoot. Both photos, there’s a mean mugged cold stare version as well as a goofy face take, give off the impression of a family. An unconventional one definitely—four black rappers similarly wearing hip black hats and thick gold chains and the three white rappers each in their own different style— a family nonetheless.
 ![Folder](https://i.imgur.com/spJ8PB5.jpg)

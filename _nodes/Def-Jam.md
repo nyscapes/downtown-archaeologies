@@ -6,4 +6,4 @@ slug: Def Jam
 
 The Old Headquarters of Def Jam Record Label on 298 Elizabeth Street. Mika will elaborate text further.
 
-![PublicEnemy](https://i.imgur.com/8dvJy4Q.jpg) 
+![PublicEnemy](https://i.imgur.com/8dvJy4Q.jpg)  
