@@ -2,13 +2,13 @@
 title: “The Dungeon Series” Artifact Post
 author: ans614
 library: "fales"
-collection: "Terence Sellers Papers"
+library-collection: "Terence Sellers Papers"
 box: 1
-Folder: 425
-copyright status: 2
-copy right holder: "Martha Wilkerson"
+folder: 425
+copyright-status: 2
+copyright-holder: "Martha Wilkerson"
 artifact-name: "The Dungeon Series"
-artifact-date: (1978-1979)
+artifact-date: (1978–1979)
 card-image-url: ??
 card-image-text: ??
 tags: art feminism prostitution culture  
