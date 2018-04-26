@@ -1,9 +1,5 @@
 ---
-title: Washington Square Park
-author: mds17
 slug: washingtonSquarePark
-coordinates: [40.730833, -73.9975]
-wikipedia-link: https://en.wikipedia.org/wiki/Washington_Square_Park
 ---
 
 [Text from Wikipedia, for now.]

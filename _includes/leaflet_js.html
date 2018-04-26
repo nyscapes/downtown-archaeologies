@@ -12,32 +12,18 @@
   map.setView(nyu, 14);
   let popupContent;
   const places = [];// L.layerGroup();
-  {% for artifact in site.artifacts %}
-    {% if artifact.coordinates %}
-      popupContent = "<h4><a href='{{ site.baseurl }}{{ artifact.url }}'>{{ artifact.title }}</a></h4><ul>";
-      {% if artifact.official-link %}
-        popupContent = popupContent + "<li><a href='{{ artifact.official-link }}'>Official link</a></li>";
+  {% for node in site.data.nodes %}
+    {% if node[1].coordinates %}
+      popupContent = "<h4><a href='{{ site.baseurl }}{{ node[1].url }}'>{{ node[1].name }}</a></h4><ul>";
+      {% if node[1].official-link %}
+        popupContent = popupContent + "<li><a href='{{ node[1].official-link }}'>Official link</a></li>";
       {% endif %}
-      {% if artifact.wikipedia-link %}
-        popupContent = popupContent + "<li><a href='{{ artifact.wikipedia-link }}'>Wikipedia link</a></li>";
-      {% endif %}
-      popupContent = popupContent + "</ul>";
-      const {{ artifact.slug }} = L.marker([{{ artifact.coordinates[0] }}, {{ artifact.coordinates[1] }}], { name: "{{ artifact.title }}" }).bindPopup(popupContent);
-      places.push({{ artifact.slug }});
-      {% endif %}
-  {% endfor %}
-  {% for node in site.nodes %}
-    {% if node.coordinates %}
-      popupContent = "<h4><a href='{{ site.baseurl }}{{ node.url }}'>{{ node.title }}</a></h4><ul>";
-      {% if node.official-link %}
-        popupContent = popupContent + "<li><a href='{{ node.official-link }}'>Official link</a></li>";
-      {% endif %}
-      {% if node.wikipedia-link %}
-        popupContent = popupContent + "<li><a href='{{ node.wikipedia-link }}'>Wikipedia link</a></li>";
+      {% if node[1].wikipedia-link %}
+        popupContent = popupContent + "<li><a href='{{ node[1].wikipedia-link }}'>Wikipedia link</a></li>";
       {% endif %}
       popupContent = popupContent + "</ul>";
-      const {{ node.slug }} = L.marker([{{ node.coordinates[0] }}, {{ node.coordinates[1] }}], { name: "{{ node.title }}" }).bindPopup(popupContent);
-      places.push({{ node.slug }});
+      const {{ node[0] }} = L.marker([{{ node[1].coordinates[0] }}, {{ node[1].coordinates[1] }}], { name: "{{ node[1].title }}" }).bindPopup(popupContent);
+      places.push({{ node[0] }});
       {% endif %}
   {% endfor %}
   Layer = L.layerGroup(places).addTo(map);
