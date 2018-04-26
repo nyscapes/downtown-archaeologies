@@ -1,5 +1,5 @@
 ---
-title: After Hip-Hop Made It There: How Def Jam sold Rap to the Masses
+title: After Hip-Hop Made It There
 author: mas1342
 library: fales
 library-collection: "Peter Dougherty Collection"
@@ -13,6 +13,7 @@ card-image-url: "https://i.imgur.com/IQIdfVy.jpg"
 card-image-text: "Together Forever Tour Promo"
 tags: ["rap", "music", "tour", "race","peter dougherty"]
 ---
+## How Def Jam Sold Rap to the Masses   
 
 "RUN-D.M.C. and the Beastie Boys, the country's two most popular rap music acts, have announced a 40-city summerlong tour tentatively scheduled to begin in Honolulu on June 13 and to culminate at Madison Square Garden on Aug. 17. The ''Together Forever'' tour will be one of the few in pop music history to give top billing to black and white acts of equal stature. Both Run-D.M.C.'s latest album, ''Raising Hell,'' and the Beastie Boys' debut, ''Licensed to Ill,'' have surpassed the three million mark in sales.""
 				-Stephen Holden, New York Times, May 20th 1987
@@ -21,7 +22,7 @@ This is the first paragraph of a photocopied article tucked into the pocket of a
 ![Folder](https://i.imgur.com/spJ8PB5.jpg)
 
 This folder wound up in the Fales Library through the Peter Dougherty collection. Dougherty was the creator of the show Yo! MTV Raps which influenced the development of the channel’s early days. His files can chronicled the rise and fall of musicians from the late eighties to the early naughts through collected promotional material, photographs, advertisements, and tour information like the cultural artifact presented here. This artifact preserves a crucial tipping point in the trajectory of Hip-Hop’s success and proliferation. Many historians argue as to when Hip-Hop went pop, or became commercial, but the photos in this folder captures a moment pregnant with the joy and anxieties of these artists embarking on a tour that would change the shape of the genre they pioneered.
-![GIF](https://i.imgur.com/kuFVRfO.gifv)
+![GIF](https://i.imgur.com/kuFVRfO.gif)
 
 Hip-Hop was born in Queens but it became a business in Manhattan. Russell Simmons and Rick Rubin founded Def Jam Recordings in 1983.The slick businessman from Hollis, Queens and the long scruffy haired record-bin diver from Manhattan joined forces to bring Hip-Hop’s biggest stars to the stage. The first single released with the Def Jam Recordings logo was T La Rock & Jazzy Jay's "It's Yours." The first releases with Def Jam Recordings catalog numbers were LL Cool J's "I Need a Beat" and the Beastie Boys' "Rock Hard," both in 1984. True to the hustle of Hip-Hop these jams were recorded in and distributed from Rubin’s NYU dorm Weinstein.  While Simmons is credited as the business brain behind the record label’s success it was Rubin’s production that helped bring the best out of their artists (Def Jam).
 
