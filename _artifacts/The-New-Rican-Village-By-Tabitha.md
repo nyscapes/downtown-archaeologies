@@ -1,7 +1,7 @@
 ---
-title: Nuyorican Arts en Loisaida
-author: Tmp365
-slug: The New Rican Village
+Title: Nuyorican Arts en Loisaida
+Author: Tmp365
+Slug: The New Rican Village
 library: Centro Center for Puerto Rican Studies
 library-collection: "Lourdes Torres Papers"
 box: 10
