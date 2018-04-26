@@ -53,4 +53,4 @@ Martha Wilson, the preserver of these articles, stated that the restaurant was a
 
 * “[El Internacional, the First Postmodern Art Restaurant](http://tribecacitizen.com/2014/01/23/el-internacional-the-first-postmodern-art-restaurant/).” _Tribeca Citizen_.
 
-“Part 1The Book.” A Book about El Internacional Tapas Bar & Restaurant (NY, 1984-86), elinternacional.foodcultura.org/#oral-history.
+* “[Part 1 The Book. A Book about El Internacional Tapas Bar & Restaurant (NY, 1984-86)](http://elinternacional.foodcultura.org/#oral-history)."
