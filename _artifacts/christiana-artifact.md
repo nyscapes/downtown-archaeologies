@@ -1,5 +1,5 @@
 ---
-title: Your House Is Mine
+title: YOUR HOUSE IS MINE 
 author: cc4815
 library: fales
 library-collection: "NYU Bobst Special Collection"
