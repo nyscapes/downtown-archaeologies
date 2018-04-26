@@ -1,5 +1,5 @@
 ---
-title: After Hip-Hop Made It There: How Def Jam sold Rap to the Masses
+title: After Hip-Hop Made It There
 author: mas1342
 library: fales
 library-collection: "Peter Dougherty Collection"
@@ -11,8 +11,9 @@ artifact-name: "Together Forever Tour Press Packet"
 artifact-date: 1987-06
 card-image-url: "https://i.imgur.com/IQIdfVy.jpg"
 card-image-text: "Together Forever Tour Promo"
-tags: ["rap", "music", "tour", "race","peter dougherty"] 
+tags: ["rap", "music", "tour", "race","peter dougherty"]
 ---
+## How Def Jam Sold Rap to the Masses
 
 "RUN-D.M.C. and the Beastie Boys, the country's two most popular rap music acts, have announced a 40-city summerlong tour tentatively scheduled to begin in Honolulu on June 13 and to culminate at Madison Square Garden on Aug. 17. The ''Together Forever'' tour will be one of the few in pop music history to give top billing to black and white acts of equal stature. Both Run-D.M.C.'s latest album, ''Raising Hell,'' and the Beastie Boys' debut, ''Licensed to Ill,'' have surpassed the three million mark in sales.""
 				-Stephen Holden, New York Times, May 20th 1987
