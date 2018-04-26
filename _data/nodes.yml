@@ -47,6 +47,9 @@ pyramidClub:
   name: Pyramid Club
   wikipedia-link: https://en.wikipedia.org/wiki/Pyramid_Club
   coordinates: [40.725818, -73.983949]
+  card-image-url: https://i.imgur.com/2NWgdvi.jpg
+  card-image-credit: the internet
+  card-image-text: Pyramid Club
   CBGB:
     author: bg1506
     name: CBGB
