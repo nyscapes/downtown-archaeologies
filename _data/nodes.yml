@@ -34,8 +34,8 @@ tompkinsSquarePark:
   name: Tompkins Square Park
   wikipedia-link: https://en.wikipedia.org/wiki/Tompkins_Square_Park
   coordinates: [40.726389, -73.981667]
-Def-Jam:
+def-jam:
   name: 298 Elizabeth St.
   wikipedia-link: https://en.wikipedia.org/wiki/Def_Jam_Recordings
-  coordinates: [40.724940, -73.993039]
+  coordinates: [40.724940, -73.993039] 
 ---
