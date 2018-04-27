@@ -1,13 +1,13 @@
 ---
 title: Club 57
 author: elh365
-library: Fales
+library: fales
 library-collection: Downtown Flyers and Invitations Collection
 box: 1
 folder: 100
 copyright-status: 1
 copyright-holder:
-artifact-name: 
+artifact-name:
 artifact-date:
 card-image-url:
 card-image-text:
@@ -36,4 +36,4 @@ Club 57 was a place to fully express the minds of New York City creators. With f
 
 * Mowder, Meredith. [Club 57](brooklynrail.org/2018/03/artseen/Club-57.) _The Brooklyn Rail_. Accessed April 2, 2018.
 
-* Sokol, Brett. [Club 57, Late-Night Home of Basquiat and Haring, Gets a Museum-Worthy Revival.](www.nytimes.com/2017/10/26/arts/design/club-57-museum-of-modern-art.html.) _THe New York Times_. Accessed April 2, 2018.
+* Sokol, Brett. [Club 57, Late-Night Home of Basquiat and Haring, Gets a Museum-Worthy Revival.](www.nytimes.com/2017/10/26/arts/design/club-57-museum-of-modern-art.html.) _The New York Times_. Accessed April 2, 2018.
