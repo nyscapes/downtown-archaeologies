@@ -8,9 +8,9 @@ folder: 4
 copyright-status: 2
 artifact-name: Martha Wilson Papers El Internacional Restaurant
 artifact-date: 1985
-card-image-url: https://www.moma.org/calendar/events/2985
-card-image-text: el internacional
-tags: resaurant 1980s-new-york tribeca tapas
+card-image-url: https://i.imgur.com/Qc30aU1.jpg
+card-image-text: "el internacional"
+tags: resturant 1980s-ny tribeca tapas
 ---
 
 When pondering which aspect of downtown New York I am most intrigued by, I could not ignore that food, and the ambiance that it provides, pulls me in the most. My chosen artifact for this project is an edition of the El Internacional Newspaper- a publication for the iconic 1980s Tribeca restaurant.
@@ -49,8 +49,8 @@ Martha Wilson, the preserver of these articles, stated that the restaurant was a
 
 
 
-Work Cited
+### Bibliography
 
-“El Internacional, the First Postmodern Art Restaurant.” Tribeca Citizen, tribecacitizen.com/2014/01/23/el-internacional-the-first-postmodern-art-restaurant/.
+* “[El Internacional, the First Postmodern Art Restaurant](http://tribecacitizen.com/2014/01/23/el-internacional-the-first-postmodern-art-restaurant/).” _Tribeca Citizen_.
 
-“Part 1The Book.” A Book about El Internacional Tapas Bar & Restaurant (NY, 1984-86), elinternacional.foodcultura.org/#oral-history.
+* “[Part 1 The Book. A Book about El Internacional Tapas Bar & Restaurant (NY, 1984-86)](http://elinternacional.foodcultura.org/#oral-history)."
