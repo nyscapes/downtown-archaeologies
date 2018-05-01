@@ -1,5 +1,11 @@
 ---
-slug: gentrification
+author: lrd306
+title: Gentrification
+name: Gentrification
+wikipedia-link: https://en.wikipedia.org/wiki/Gentrification
+card-image-url: https://i.imgur.com/kDMqTuT.jpg
+card-image-credit: The internet
+card-image-text: New Buildings
 ---
 
 For many years now, gentrification has been sweeping through the streets of New York, landing in certain neighborhoods and communities, and changing the topical and cultural makeup of the area. By definition, gentrification is the process of renovating an area, often deteriorating or slightly under kept, in the hopes of attracting more affluent residents. While the Wikipedia definition can make gentrification sound like a bland, routine process, in reality, it affects all those involved, and is a very controversial topic.

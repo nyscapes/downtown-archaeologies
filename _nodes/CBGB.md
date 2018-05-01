@@ -1,5 +1,12 @@
 ---
-slug: CBGB
+author: bg1506
+name: CBGB
+wikipedia-link: https://en.wikipedia.org/wiki/CBGB
+coordinates: [40.725278, -73.991944]
+card-image-url: https://i.imgur.com/yoKsfd2.jpg
+card-image-credit: The internet
+card-image-text: CBGBClub
+title: CBGB
 ---
 ![CBGBClub](https://i.imgur.com/01CMWOv.jpg)
 

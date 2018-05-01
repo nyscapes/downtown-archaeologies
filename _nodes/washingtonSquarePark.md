@@ -1,5 +1,13 @@
 ---
-slug: washingtonSquarePark
+author: mds17
+title: Washington Square Park
+name: Washington Square Park
+coordinates: [40.730833, -73.9975]
+wikipedia-link: https://en.wikipedia.org/wiki/Washington_Square_Park
+# official-link:
+# card-image-url:
+# card-image-text:
+# card-image-credit:
 ---
 
 [Text from Wikipedia, for now.]
@@ -17,3 +25,4 @@ residents and tourists. Most of the buildings surrounding the park now belong
 to New York University, but many have at one time served as homes and studios
 for artists. Some of the buildings have been built by NYU while others have
 been converted from their former uses into academic and residential buildings.
+
