@@ -14,7 +14,7 @@ card-image-text: "Queer Nation"
 tags: ["LGBTQ","west village","queer nation","AIDS"]
 nodes: aids lgbtq
 carousel:
-  - url: https://i.imgur.com/ymJEpKA.jpg
+  - url: https://i.imgur.com/DeAIZY1.jpg
     alt: "front page"
     cap: "Front Page"
   - url: https://i.imgur.com/J4A23Sq.jpg
