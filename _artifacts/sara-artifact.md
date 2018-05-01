@@ -13,18 +13,12 @@ official link: http://actupny.org/
 wikipedia link: https://en.wikipedia.org/wiki/ACT_UP/
 card-image-url: https://i.imgur.com/WSwZq02.jpg
 card-image-text: "ACT UP Poster"
-nodes: keithHaring, lgbtq, aids, keithHaring
-tags: ["AIDS","1980s","ACT UP", "LGBT", "LGBTQ", "Keith Haring"]
+nodes: keithHaring lgbtq aids
+tags: AIDS 1980s ACT-UP LGBT LGBTQ Keith-Haring SoHo East-Village
 carousel:
  - url: https://i.imgur.com/euoBB9i.jpg
    alt: ACT UP protest
    cap: ACT UP protesters in 1990s
- - url: https://i.imgur.com/bmTt1GG.jpg
-   alt: "SILENCE=DEATH"  
-   cap: Classic ACT UP signage
- - url: https://i.imgur.com/bQqKyOK.gif
-   alt: CDC Stats
-   cap: CDC Stats on the AIDS Crisis
  - url: https://i.imgur.com/UfgzRXC.jpg
    alt: "NYT Coverage of Wall Street Protest"
    cap: "The first ACT UP protest, as covered by the NYT"
@@ -57,12 +51,13 @@ The flyer does not stop at basic health information. It ties the issue back to t
 
 The flyer uses repetition of phrases – a hallmark of ACT UP. In this particular flyer, the phrase "get involved" is used repeatedly and strategically. It addresses an aspect of shortcoming in research or coverage and urges the reader to (in bold) "get involved!"
 
-ACT UP used repetition to solidify their message in a variety of campaigns. One slogan, which became a signature chant at protests was "ACT UP, Fight Back, Fight AIDS." The phrase "Fight back!" was used in a variety of other chants as well. At protests, these chants were used to solidify the message of the fight against not only AIDS, but the systems of power and bureaucracy in place that were ultimately killing thousands of people across the United States.
+ACT UP used repetition to solidify their message in a variety of campaigns. One slogan, which became a signature chant at protests was "ACT UP, Fight Back, Fight AIDS." The phrase "Fight back!" was used in a variety of other chants as well. Another widely used slogan, whcih can be seen in the Keith Haring art and images from the protests was "SILENCE = DEATH."" At protests, these chants were used to solidify the message of the fight against not only AIDS, but the systems of power and bureaucracy in place that were ultimately killing thousands of people across the United States.
 
-The tactics of ACT UP were used to effectively garner support and understanding of those suffering and dying form the disease. The activist group increased involvement beyond the gay community and educated those both in and outside the LGBT sphere. The tactics and methods set in place by ACT UP are still used by organizations that take inspiration form them today.
+The tactics of ACT UP were used to effectively garner support and understanding of those suffering and dying form the disease. The activist group increased involvement beyond the gay community and educated those both in and outside the LGBT sphere. The tactics and methods set in place by ACT UP are still used by the group today, as well as huge number of other organizations that take inspiration from them today.
 
 ### Bibliography:
 * Manuscripts and Archives Division, The New York Public Library. "AIDS is a primary issue. Demand a national plan on AIDS." _New York Public Library Digital Collections_. Accessed March 9, 2018.
 * “ACT UP Capsule History.” ACT UP New York. Acccessed March 9, 2018.
 * Manuscripts and Archives Division, The New York Public Library. "ACT UP. [Activists at subway station.]" _The New York Public Library Digital Collections_. 1989.
 * Manuscripts and Archives Division, The New York Public Library. "Silence = Death" _The New York Public Library Digital Collections_. 1969 - 1997.
+* Haring, Keith."Ignorance = Fear / Silence = Death." 1989.
