@@ -8,7 +8,7 @@ card-image-url:
 box: 1
 Folder: 3
 copyright-status: 2
-copyright-holder:
+copyright-holder: "some name"
 tags: culture art nightlife fashion
 
 
