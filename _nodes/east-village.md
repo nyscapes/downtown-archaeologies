@@ -2,6 +2,9 @@
 title: East Village
 name: East Village
 wikipedia-link: https://en.wikipedia.org/wiki/East_Village,_Manhattan
+card-image-url: https://i.imgur.com/a/i2JDvuZ.jpg
+card-image-credit: The internet
+card-image-text: Stuyvesant Street
 ---
 
 [Text from Wikipedia, for now.]
