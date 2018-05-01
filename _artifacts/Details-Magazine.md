@@ -7,7 +7,7 @@ box: 1
 Folder: 3
 copyright-status: 2
 copyright-holder: "some name"
-card-image-url: (https://i.imgur.com/5HFExGW.jpg)
+card-image-url:   "https://i.imgur.com/5HFExGW.jpg"
 tags: culture art nightlife fashion
 
 
