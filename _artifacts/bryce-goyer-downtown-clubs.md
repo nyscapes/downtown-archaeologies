@@ -11,8 +11,8 @@ artifact-name: "Pyramid Club Flyers"
 artifact-date: Unknown
 card-image-url: "https://i.imgur.com/xKht7qG.jpg"
 card-image-text: "CBGB Club Flyer"
-tags: ["downtown-club-scene"]
-nodes: CBGB 
+tags: downtown-club-scene CBGB punk-music 
+nodes: CBGB
 ---
 ![BuskersClubFlyer](https://i.imgur.com/OaqoFTm.jpg)
 ![CBGBClubFlyer](https://i.imgur.com/xKht7qG.jpg)
