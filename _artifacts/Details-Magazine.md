@@ -7,6 +7,8 @@ box: 1
 Folder: 3
 copyright-status: 2
 copyright-holder: "some name"
+artifact-name: "Issue 1 Volume 3"
+artifact-date: 1982-07-02
 card-image-url:   "https://i.imgur.com/5HFExGW.jpg"
 tags: culture art nightlife fashion
 
