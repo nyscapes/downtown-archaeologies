@@ -13,15 +13,16 @@ official link: http://actupny.org/
 wikipedia link: https://en.wikipedia.org/wiki/ACT_UP/
 card-image-url: https://i.imgur.com/WSwZq02.jpg
 card-image-text: "ACT UP Poster"
-tags: ["AIDS","1980s","ACT UP", "LGBT"]
+nodes: keithHaring, lgbtq, aids, keithHaring
+tags: ["AIDS","1980s","ACT UP", "LGBT", "LGBTQ"]
 carousel:
- - url: https://i.imgur.com/8EtG3F7.jpg
+ - url: https://i.imgur.com/euoBB9i.jpg
    alt: ACT UP protest
-   cap: ACT UP protesters in 1989
- - url: https://i.imgur.com/AfvYPF7.jpg
+   cap: ACT UP protesters in 1990s
+ - url: https://i.imgur.com/bmTt1GG.jpg
    alt: "SILENCE=DEATH"  
    cap: Classic ACT UP signage
- - url: https://i.imgur.com/UeluYT8.gif
+ - url: https://i.imgur.com/bQqKyOK.gif
    alt: CDC Stats
    cap: CDC Stats on the AIDS Crisis
  - url: https://i.imgur.com/UfgzRXC.jpg
