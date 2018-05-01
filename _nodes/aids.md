@@ -2,6 +2,11 @@
 title: AIDS
 name: AIDS
 author: mck426
+wikipedia-link: https://en.wikipedia.org/wiki/HIV/AIDS
+card-image-url: https://upload.wikimedia.org/wikipedia/commons/b/b4/Aids_Quilt.jpg
+card-image-text: The AIDS Quilt
+card-image-credit: Wikimedia Commons
+nodes: lgbtq keithHaring
 ---
 
 Acquired immunodeficiency syndrome (AIDS) is a condition that can develop in the late stages of a human immunodeficiency virus (HIV) infection. HIV gradually destroys a person's immune system by destroying a certain type of white blood cell, and people living with HIV find it harder and harder to fight off infection and diseases if they do not receive treatment. AIDS is a set of symptoms caused by the HIV virus. A person is said to have AIDS when their immune system is too weak to fight off infection, and they develop certain defining symptoms and illnesses. This is the last stage of HIV, when the infection is very advanced, and if left untreated will lead to death. HIV is spread primarily via unprotected sex, contaminated blood transfusions, and from mother to child during pregnancy. In 2016, about 36.7 million people were living with HIV and it resulted in 1 million deaths. There is currently no cure or vaccine, but advanced treatments have allowed those living with HIV/AIDS to live a near-normal life.
