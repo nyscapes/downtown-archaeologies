@@ -7,7 +7,7 @@ library-collection: "Guide to the Cover Magazine Archive"
 copyright-status: 0
 copyright-holder: "cover magazine"
 artifact-name: "Cover Magazine"
-card-image-url: "https://imgur.com/5z582iF"
+card-image-url: "https://i.imgur.com/5z582iF.jpg"
 card-image-text: "steve buscemi"
 tags: ["magazine", "pop culture", "new york city"]
 ---

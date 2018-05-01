@@ -4,7 +4,7 @@ name: Keith Haring
 title: Keith Haring
 coordinates: [40.724642,-73.996088]
 card-image-url: https://i.imgur.com/Tn310Mv.jpg
-card-image-credit: Keith Haring Pop Up Shop
+card-image-credit: via KHF
 card-image-text: Keith Haring and some of his artwork
 
 ---
