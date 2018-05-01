@@ -1,41 +1,4 @@
 # Entities that act as glue connecting artifacts.
----
-nuyoricanPoetsCafe: # only letters
-  author: mds17
-  name: Nuyorican Poet’s Café
-  coordinates: [40.721916, -73.9840147]
-  official-link: http://nuyorican.org
-  wikipedia-link: https://en.wikipedia.org/wiki/Nuyorican_Poets_Caf%C3%A9
-  card-image-url: https://upload.wikimedia.org/wikipedia/commons/9/92/Nuyorican_Poets_Cafe_in_Loisaida_section_of_New_York_City.jpg
-  card-image-text: Wikipedia image
-  card-image-credit: Wikimedia Commons
-washingtonSquarePark: # only letters
-  author: mds17
-  name: Washington Square Park
-  coordinates: [40.730833, -73.9975]
-  wikipedia-link: https://en.wikipedia.org/wiki/Washington_Square_Park
-  # official-link:
-  # card-image-url:
-  # card-image-text:
-  # card-image-credit:
-club57:
-  author: elh365
-  name: Club 57
-  wikipedia-link: https://en.wikipedia.org/wiki/Club_57
-  coordinates: [40.728316, -73.986354]
-terenceSellers:
-  author: ans614
-  name: Terence Sellers
-  wikipedia-link: https://en.wikipedia.org/wiki/Terence_Sellers
-heroin:
-  name: Heroin
-  wikipedia-link: https://en.wikipedia.org/wiki/Heroin
-tompkinsSquarePark:
-  name: Tompkins Square Park
-  wikipedia-link: https://en.wikipedia.org/wiki/Tompkins_Square_Park
-  coordinates: [40.726389, -73.981667]
-defJam:
-  name: 298 Elizabeth St.
-  wikipedia-link: https://en.wikipedia.org/wiki/Def_Jam_Recordings
-  coordinates: [40.724940, -73.993039]
----
+#
+#
+# Don't use this file anymore. Create your nodes directly in the _nodes folder.

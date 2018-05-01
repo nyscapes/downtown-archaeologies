@@ -1,6 +1,6 @@
 {% include header.html %}
   <article class="node col-md-8">
-    <h2>{{ name }}</h2>
+    <h2>{{ page.name }}</h2>
     <h3>by {{ author.name }}</h3>
     {% if page.coordinates  %}
       <div class="mb-3" style="height: 300px; max-width: auto;" id="map"></div>
@@ -20,7 +20,18 @@
         <div class="card-image-credit text-right w-100"><small>{{ node.card-image-credit }}</small></div>
         {% endif %}
 
-        <h5 class="card-title">{{ name }}</h5>
+        <h5 class="card-title">{{ page.name }}</h5>
+        <h6 class="card-subtitle">Artifacts</h6>
+        <ul>
+        {% for artifact in site.artifacts %}
+        {% assign nodeSmash = artifact.nodes | replace: " ", "|" | append: "|" %}
+        {% assign nodePipe = page.slug | append: "|" %}
+        {% if nodeSmash contains nodePipe %}
+        <li><a href="{{ site.baseurl }}/{{ artifact.url }}">{{ artifact.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+
       </div>
     </div>
 

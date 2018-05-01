@@ -48,7 +48,10 @@ exhibits that reflect the Puerto Rican culture in New York City in fusion
 with a relationship tied to the Island itself. In relation to the term
 "fusion", the artifact continues to highlight the visibility of two
 identities, one being Puerto Rican and the other being a Puerto Rican from
-New York City (Nuyorican). As the pamphlet states, "There are thousands of Puerto Ricans in New York City. They need a place to discover the meaning of their unique cultural transition and experience. They need a place to express themselves in their own terms. They need a forum in which to perfect and perform music, dance, theater and other art forms that they can't present in other channels."
+New York City (Nuyorican). As the pamphlet states,
+
+"There are thousands of Puerto Ricans in New York City. They need a place to discover the meaning of their unique cultural transition and experience. They need a place to express themselves in their own terms. They need a forum in which to perfect and perform music, dance, theater and other art forms that they can't present in other channels."
+
 This artifact brings to light that Puerto Rican cultural practices were
 excluded from other multi-faceted art spaces and this space wanted to bridge
 that gap.
@@ -113,6 +116,7 @@ venues.
 
 
 ### Bibliography
+
 * Morales, Ed "[Places in the Puerto Rican Heart Eddie
 Figueroa and the Nuyorican Imaginary](https://centropr.hunter.cuny.edu/centrovoices/letras/places-puerto-rican-heart-eddie-figueroa-and-nuyorican-imaginary)."
 _centropr.hunter.cuny.edu_. Accessed: April 23,2018.

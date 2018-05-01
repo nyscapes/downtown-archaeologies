@@ -1,5 +1,6 @@
 <script>
-  map.flyTo({{ page.slug }}.getLatLng())
-  {{ page.node }}.openPopup();
+  const local = Layer.getLayers().filter(function(l){ return l.options.slug === "{{ page.slug}}" })[0];
+  map.flyTo(local.getLatLng());
+  local.openPopup();
 
 </script>

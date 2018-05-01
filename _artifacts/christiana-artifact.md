@@ -1,5 +1,5 @@
 ---
-title: Your House Is Mine
+title: YOUR HOUSE IS MINE
 author: cc4815
 library: fales
 library-collection: "NYU Bobst Special Collection"
@@ -7,12 +7,29 @@ box: 46
 folder: 9
 copyright-status: 2
 copyright-holder: "Bullet Space"
-artifact-name: "Your House is Mine, An Act of Resistance 1988-1992."
+artifact-name: "YOUR HOUSE IS MINE, An Act of Resistance 1988-1992."
 artifact-date: 1988-1993
 card-image-url: "https://i.imgur.com/VxRGCbC.jpg"
 card-image-text: "Your House Is Mine"
 card-image-credit: Christiana Collins
-tags: LES downtown street-art graffiti gentrification
+tags: LES downtown graffiti housing healthcare resistance
+nodes: graffiti
+carousel:
+  - url: https://i.imgur.com/j6tty0x.jpg
+    alt: "Subway Map Graffiti"
+    cap: "Subway Map, Stash Two"
+  - url: https://i.imgur.com/h4hyykz.jpg
+    alt: "Housing"
+    cap: "Under the Brooklyn Bridge, Lady Pink"
+  - url: https://i.imgur.com/IHpDwvm.jpg
+    alt: "Government"
+    cap: "Democracy, David Wojnarowicz"
+  - url: https://i.imgur.com/zfTcqSA.jpg
+    alt: "Police Brutality"
+    cap: "Wake Up, Man!, Eric Drooker"
+  - url: https://i.imgur.com/2svRg6n.jpg
+    alt: "NYC identity"
+    cap: "Century of the Wind, Lee Quinones and Eduardo Galeano"
 ---
 
 “Your House is Mine” is an assemblage of artistic posters from Lower East Side artists, organized by Andrew Castrucci / Nadia Coen and printed at Bullet Space in 1989. The book is bound by wood with a lead hardback cover. I chose to analyze this work as a collection, rather than merely selecting one of the 20+ prints to research independently, because the compilation as a whole reflects the climate and many personal struggles that these Lower East Side artists endured during the late 1980s. The title of the work is in reference to the downtown housing issues and economic imbalance of the LES at this time, in conversation with the artists’ concepts of property and ownership. The purposeful medium of street posters for the book creates a connection between the streets and an act of formal documentation. The final line of the forward reads, “We have taken this opportunity to unite the following people in this collaborative project, as a statement of ‘art as a means of resistance.’”  With this framework in mind, I analyzed the artifact as a mouthpiece for the LES experience acting as a call for change.

@@ -9,7 +9,7 @@ copyright-status: 2
 copyright-holder: "Martha Wilkerson"
 artifact-name: "The Dungeon Series"
 artifact-date: (1978–1979)
-card-image-url: (https://i.imgur.com/Wawvsj6.jpg)
+card-image-url: https://i.imgur.com/Wawvsj6.jpg
 card-image-text: A Sophistocated Terence Sellers
 card-image-credit: Ava Solina
 tags: art feminism prostitution culture  
@@ -43,12 +43,10 @@ In “The Dungeon Series,” Sellers and DeSana created, and thus promoted, art 
 
 ### Bibliography
 
-* JP. "DIRTY, DANGEROUS & DESTITUTE. NEW YORK IN THE 70s- ALLAN TANNENBAUM." The Selvedge Yard. May 17, 2014. Accessed March 20, 2018.
+* JP. "[Dirty, Dangerous & Destuture. New York in the 70s- ALLAN TANNENBAUM](https://selvedgeyard.com/2010/04/15/hookers-hypodermics-new-york-in-the-70s/)." _The Selvedge Yard_. May 17, 2014. Accessed March 20, 2018.
 
-![https://selvedgeyard.com/2010/04/15/hookers-hypodermics-new-york-in-the-70s/]
 
-* "NEWS FROM THE JACKIE FACTORY: A VERY CORRECT REMEMBRANCE OF TERENCE SELLERS." MotherNYC. Accessed March 20, 2018. http://www.mothernyc.com/terence/.
+* "[News from the Jackie Factory: A Very Correct Remembrance of Terrence Sellers.](http://www.mothernyc.com/terence/.)" MotherNYC. Accessed March 20, 2018.
 
-* Hudson. "How New York's Art Scene In The '80s Made NYC What It Is Today." Hudson. Accessed March 20, 2018. http://content.hudsonjeans.com/how-new-yorks-art-scene-in-the-80s-made-nyc-what-it-is-today.
-
-* "Jimmy De Sana." Visual AIDS. Accessed March 20, 2018. https://www.visualaids.org/artists/detail/jimmy-de-sana.
+* Hudson. "[How New York's Art Scene In The '80s Made NYC What It Is Today.](http://content.hudsonjeans.com/how-new-yorks-art-scene-in-the-80s-made-nyc-what-it-is-today.)" Hudson. Accessed March 20, 2018.
+* "[Jimmy De Sana.](https://www.visualaids.org/artists/detail/jimmy-de-sana.)" Visual AIDS. Accessed March 20, 2018. 
