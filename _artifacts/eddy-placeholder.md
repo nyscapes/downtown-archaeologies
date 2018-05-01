@@ -9,10 +9,11 @@ copyright-status: 1
 copyright-holder:
 artifact-name:
 artifact-date:
-card-image-url:
-card-image-text:
-card-image-credit:
+card-image-url: "https://i.imgur.com/BJh2gQH.jpg"
+card-image-text: "Club 57"
+card-image-credit: "Beyond My Ken"
 tags: club-57 diy music art artists
+nodes: club57 performanceArt keithHaring 
 ---
 New York City’s Club 57, located on 57 St. Mark’s Place in between 1st and 2nd avenue, was a staple for young artists in the early 1980’s. In its short life, only being open from 1979-1983, it housed many famous artists that are hailed and respected today, such as Jean Michel-Basquiat and Keith Haring. It was founded by Stanley Strychachki, a Polish immigrant who decided to come to America in 1972. Surprisingly, the club was under the Holy Cross Polish National Catholic Church and Strychachki was in charge of gaining extra revenue for the church, using the bar below as a means of getting more customers. The club was originally called the “East Village Student’s Club” and generally catered to New York University students.
 
