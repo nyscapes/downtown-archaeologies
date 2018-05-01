@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h2>Tag: {{ page.title }}</h2>
+
+<ul>
+{% for artifact in site.artifacts %}
+{% assign tagmess = artifact.tags | join: "|" | append: "|" %}
+{% assign slugpipe = page.title | append: "|" %}
+{% if tagmess contains slugpipe %}
+<li><a href="{{ site.baseurl }}/artifacts/{{ artifact.slug }}">{{ artifact.title }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
