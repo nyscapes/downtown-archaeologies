@@ -13,6 +13,7 @@ official link: http://actupny.org/
 wikipedia link: https://en.wikipedia.org/wiki/ACT_UP/
 card-image-url: https://i.imgur.com/WSwZq02.jpg
 card-image-text: "ACT UP Poster"
+nodes: keithHaring, lgbtq, aids
 tags: ["AIDS","1980s","ACT UP", "LGBT", "LGBTQ"]
 carousel:
  - url: https://i.imgur.com/8EtG3F7.jpg
