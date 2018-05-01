@@ -10,7 +10,7 @@ artifact-name: "Club 57 Calendar"
 card-image-url: "https://i.imgur.com/EkGt3ku.jpg"
 card-image-text: "Club 57 Calendar"
 card-image-credit: Brandon Warrick
-nodes: club57, gentrification, DIY
+nodes: club57 gentrification DIY
 tags: ["peter dougherty", "club 57", "performance", "saint marks", "downtown"]
 ---
 For my artifact, I decided to check out a few folders from the Peter Dougherty Papers of the Downtown Collection. I viewed folders 24 through 26. I wanted to get a look at some flyers and other promotional materials from the club scene in the late 70s and early 80s. While I viewed material from CBGB and some Clash materials as well, I landed on focusing on Club 57 and the materials regarding it in folder 26.
@@ -31,8 +31,11 @@ To my point about the diversity of acts, events, and entertainment that is clear
 
 Going off that point, while I was scouring the Peter Dougherty Papers, I came along another interesting piece from Club 57. In the same folder that the calendar for the club was in, there was also a flyer advertisement for an “International Rap Night” for June of 1981. I think that’s really another hearty facet of how inclusive and expansive this club was. Rap and Hip-Hop were burgeoning scenes at the time and, while in retrospect have a lot in common with the punk/alternative underground, it wasn’t necessarily a common thing to include rap in downtown Manhattan. It reminds me, in junction with the fact that there was a DNA flyer in the Dougherty collection as well, of the scene where Fab Five Freddy is hanging out in the Village area in Downtown ’81. Given that Basquiat was also a staple of Club 57, it all seems to make sense to have them together, Nonetheless, the flyer for the “International Rap Night” was a interesting site in the folder that was otherwise full of punk act flyers and arthouse films.
 
+![RapNight](https://i.imgur.com/rrkPA0F.jpg)
+
 It’s also interesting to analyze the space and condition of the area that Club 57 existed in at the time. Ron Magliozzi, one of the curators of the club’s MoMA exhibit, claimed that “[t]he East Village looked like London after the blitz — empty lots, burning buildings, and a mix of a lot of Eastern European and Puerto Rican immigrants. It was a very scary place to go to. It kind of replaced Harlem as a place you were afraid to go to”. That assessment, on top of the fact that many of the other testimonials talk about the impromptu nature in which the building’s owner offered to have people start a club in his basement, gives the image of every staple of DIY punk-style lower Manhattan start-ups at the time.
 
+![Flyer3](https://i.imgur.com/jKdPPzc.jpg)
 
 “Club 57: Film, Performance, and Art in the East Village, 1978–1983 | MoMA.” The Museum of Modern Art, www.moma.org/calendar/exhibitions/3824.
 “Club 57.” Wikipedia, Wikimedia Foundation, 12 Mar. 2018, en.wikipedia.org/wiki/Club_57.
