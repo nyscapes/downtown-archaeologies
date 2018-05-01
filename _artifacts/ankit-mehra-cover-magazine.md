@@ -2,8 +2,12 @@
 tile: Cover magazine
 author: am8290
 slug: ankithiphopartifact
+copyright-status: 0
+copyright-holder: "cover magazine"
+artifact-name: "Cover Magazine"
 card-image-url: "https://imgur.com/5z582iF"
 card-image-text: "steve buscemi"
+tags: ["magazine", "pop culture", "new york city"]
 ---
 
 At a time when a culture clash was occurring in New York City, Cover Magazine became an epicenter for the arts, promising to “to cover all the arts in every issue.” At the forefront of the magazine’s 14 year reign of success was poet Jeffrey Cyphers Wright, who edited each monthly issue of the magazine. The magazine provided a vast music library, alongside covering topics such as film, sculpture, dance, photography and visual arts. Outside of cultivating a magazine, Cover Magazine put on town halls, interviews, runway shows and concerts at famous venues such as Webster Hall on 11th street, which is now closed.
