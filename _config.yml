@@ -1,6 +1,7 @@
 baseurl: /downtown-archaeologies
 name: Downtown Archæologies
 markdown: kramdown
+include: ["_pages"]
 collections:
   artifacts :
     output: true
