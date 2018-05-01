@@ -12,9 +12,10 @@ artifact-date: 1991-06-25
 card-image-url: "https://i.imgur.com/e5fVPvB.png"
 card-image-text: "Queer Nation"
 tags: ["LGBTQ","west village","queer nation","AIDS"]
+nodes: aids lgbtq
 ---
 
-For my individual study of Downtown Manhattan, I decided to direct my attention on Downtown New York’s  LGBT history, specifically focusing on the history of Queer Nation through its archived materials in Bobst’s Fales Collection. Queer Nation is a queer activist organization, which was influential during its nascent years in the early 1990s as it sought to eliminate homophobia and increase LGBT visibility through provocative actions. In searching for a single artifact to examine Queer Nation’s footprint in the history of Downtown Manhattan, I discovered an issue of The Queer National, the group’s local newsletter, published in 1991, at Fales. The seven-page pamphlet is extremely rich and offers revealing information at such a pivotal moment in the history of the LGBT Rights Movement in New York.
+For my individual study of Downtown Manhattan, I decided to direct my attention on Downtown New York’s  LGBT history, specifically focusing on the history of Queer Nation through its archived materials in Bobst’s Downtown Collection in the Fales archive. Queer Nation is a queer activist organization, which was influential during its nascent years in the early 1990s as it sought to eliminate homophobia and increase LGBT visibility through provocative actions. In searching for a single artifact to examine Queer Nation’s footprint in the history of Downtown Manhattan, I discovered an issue of The Queer National, the group’s local newsletter, published in 1991, at Fales. The seven-page pamphlet is extremely rich and offers revealing information at such a pivotal moment in the history of the LGBT Rights Movement in New York.
 
 ![Front Page](https://i.imgur.com/ymJEpKA.jpg)
 
