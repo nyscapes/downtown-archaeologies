@@ -1,5 +1,8 @@
 ---
-slug: terenceSellers
+author: ans614
+title: Terence Sellers
+name: Terence Sellers
+wikipedia-link: https://en.wikipedia.org/wiki/Terence_Sellers
 ---
 
 Terrance Sellers was an artist, writer, performer, and dominatrix who lived and worked in New York.

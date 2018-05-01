@@ -1,5 +1,7 @@
 ---
-slug: heroin
+title: Heroin
+name: Heroin
+wikipedia-link: https://en.wikipedia.org/wiki/Heroin
 ---
 
 [Text from Wikipedia, for now.]
