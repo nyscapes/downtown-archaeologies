@@ -28,6 +28,9 @@ carousel:
  - url: https://i.imgur.com/UfgzRXC.jpg
    alt: "NYT Coverage of Wall Street Protest"
    cap: "The first ACT UP protest, as covered by the NYT"
+ - url: https://i.imgur.com/Ro0wMpV.jpg
+   alt: "Keith Haring ACT UP Art"
+   cap: ACT UP and Keith Haring Art from the Whitney Collection
 ---
 
 The "Downtown Collection" at NYU's Fales Library has a huge archive of papers from Alan Klein. as a prominent member of ACT UP, an AIDS activist group that formed in the 1980s, Klein kept consistent and through documentation of the group's work.
