@@ -12,8 +12,8 @@ artifact-date: 1988-1993
 card-image-url: "https://i.imgur.com/VxRGCbC.jpg"
 card-image-text: "Your House Is Mine"
 card-image-credit: Christiana Collins
-tags: LES downtown graffiti housing healthcare resistance
-nodes: graffiti aids heroin 
+tags: LES downtown graffiti housing healthcare resistance art 
+nodes: graffiti aids heroin
 carousel:
   - url: https://i.imgur.com/j6tty0x.jpg
     alt: "Subway Map Graffiti"
