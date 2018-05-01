@@ -1,5 +1,5 @@
 ---
-title: Details Magazine: Volume 1 Issue 3
+title: Details Magazine, Volume 1 Issue 3
 author: jas1634
 library: fales
 library-collection: "Details Magazine"
