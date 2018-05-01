@@ -21,6 +21,17 @@
         {% endif %}
 
         <h5 class="card-title">{{ page.name }}</h5>
+        <h6 class="card-subtitle">Artifacts</h6>
+        <ul>
+        {% for artifact in site.artifacts %}
+        {% assign nodeSmash = artifact.nodes | replace: " ", "|" | append: "|" %}
+        {% assign nodePipe = page.slug | append: "|" %}
+        {% if nodeSmash contains nodePipe %}
+        <li><a href="{{ site.baseurl }}/{{ artifact.url }}">{{ artifact.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+
       </div>
     </div>
 
