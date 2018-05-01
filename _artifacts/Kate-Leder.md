@@ -12,6 +12,7 @@ artifact-date: 1983-06
 card-image-url: "https://i.imgur.com/6xNFKFf.jpg"
 card-image-text: "One Year - Rope Piece Statement"
 tags: performance-piece art performance experimental
+nodes: performanceArt 
 ---
 
 
