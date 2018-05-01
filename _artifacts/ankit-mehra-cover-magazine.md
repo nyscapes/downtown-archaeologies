@@ -2,6 +2,8 @@
 tile: Cover magazine
 author: am8290
 slug: ankithiphopartifact
+library: fales
+library-collection: "Guide to the Cover Magazine Archive"
 copyright-status: 0
 copyright-holder: "cover magazine"
 artifact-name: "Cover Magazine"
