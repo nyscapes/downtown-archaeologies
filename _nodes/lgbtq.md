@@ -1,7 +1,7 @@
 ---
 author: sm6381
 title: lgbtq
-name: lgbtq
+name: LGBTQ
 coordinates: [40.733814,-74.002163]
 wikipedia-link: https://en.wikipedia.org/wiki/LGBT_culture_in_New_York_City
 card-image-url: https://i.imgur.com/IjBZN9j.jpg
