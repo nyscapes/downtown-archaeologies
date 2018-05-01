@@ -5,7 +5,6 @@ name: Graffiti
 wikipedia-link: https://en.wikipedia.org/wiki/Graffiti
 card-image-url: https://i.imgur.com/nnxWspy.jpg
 card-image-text: Public image, Stash Two graffiti artists
-card-image-credit: internet
 
 ---
 Following the 1970’s, graffiti culture in New York City had evolved into an undeniable presence to be seen throughout the veins of the subways and into all areas of the city. The controversy around graffiti is in the polarity of perspectives when discussing its presence; some consider graffiti to be vandalism, while others view it as a form of free expression.
