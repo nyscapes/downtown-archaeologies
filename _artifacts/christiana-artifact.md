@@ -12,7 +12,7 @@ artifact-date: 1988-1993
 card-image-url: "https://i.imgur.com/VxRGCbC.jpg"
 card-image-text: "Your House Is Mine"
 card-image-credit: Christiana Collins
-tags: LES downtown graffiti housing healthcare resistance art 
+tags: LES downtown graffiti housing healthcare resistance art
 nodes: graffiti aids heroin
 carousel:
   - url: https://i.imgur.com/j6tty0x.jpg
@@ -74,4 +74,6 @@ The compilation of street posters by Bullet Space provided a visible outlet for 
 
 ### Bibliography
 
-* Text 1. _Title_.
+* Bullet Space. _Your House Is Mine_. Bullet Space Gallery, 1988-93, NYU Fales, Downtown Collection, New York City, NY.
+
+* Bullet Space Gallery. "Manifesto." _Bullet Space_, http://bulletspace.org/site/projects/manifesto.
