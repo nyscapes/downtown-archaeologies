@@ -7,7 +7,7 @@ box: 46
 folder: 9
 copyright-status: 2
 copyright-holder: "Bullet Space"
-artifact-name: "YOUR HOUSE IS MINE, An Act of Resistance 1988-1992."
+artifact-name: "YOUR HOUSE IS MINE, An Act of Resistance 1988-1993."
 artifact-date: 1988-1993
 card-image-url: "https://i.imgur.com/VxRGCbC.jpg"
 card-image-text: "Your House Is Mine"
