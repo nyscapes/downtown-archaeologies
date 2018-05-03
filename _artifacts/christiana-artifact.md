@@ -7,12 +7,12 @@ box: 46
 folder: 9
 copyright-status: 2
 copyright-holder: "Bullet Space"
-artifact-name: "YOUR HOUSE IS MINE, An Act of Resistance 1988-1992."
+artifact-name: "YOUR HOUSE IS MINE, An Act of Resistance 1988-1993."
 artifact-date: 1988-1993
 card-image-url: "https://i.imgur.com/VxRGCbC.jpg"
 card-image-text: "Your House Is Mine"
 card-image-credit: Christiana Collins
-tags: LES downtown graffiti housing healthcare resistance art 
+tags: LES downtown graffiti housing healthcare resistance art
 nodes: graffiti aids heroin
 carousel:
   - url: https://i.imgur.com/j6tty0x.jpg
@@ -66,7 +66,7 @@ In the top left-hand corner, the first paragraph explains the environment of a 1
 Traveling further in time, the following paragraph describes a New York in 1927 through the lens of Bettie Smith (aka the Empress of the Blues). Her blues could relate to the struggles for many poor, black listeners who felt her music was coming from a rare place of understanding. Smith’s commentary on the racial inequality in America inspired a relatable hope within her listeners in identifying a shared frustration. From here, the Galeano titles the next paragraph “1929: New York Euphoria” to explain the economic goldmine of the stock exchange during the roaring 20s and the prosperity this created within the city for many. Immediately following this is the transition into the Great Depression, “Daily Life in the Crisis” as Galeano calls it. He writes, “nobody is selling optimism in the market. Fashions sadden. Long faces, long dresses, long hair.” It is obvious that this switch in society from booming prosperity to sudden economic downfall is an event that has the power to transform New York City during any generation. This nationwide sense of hopelessness explains for the rise of the comic book Superman in 1939, the savior of the troubled Metropolis. Galeano then jumps in time from 1939 to a New York City in 1980, severely damaged by the factories and smokestacks which embodied the evolution of the industrial era goals. The society he describes is defenseless to the actions of major manufacturers and government agencies, forcing citizens to look to God as their only potential supporter.
 ![1990snyc](https://i.imgur.com/B1gHt1h.jpg)
 
-At the bottom of the poster, written in larger and bolder letters than in any of the other paragraphs, Quinones articulates the societal climate of 1990s New York. Interestingly, this description does not differ from the perspective of many New Yorkers today. He talks about a city still infatuated with the American dream but still plagued with issues that appear unsolvable to his community. He writes, “Trump’s a material guy with a material girl, his marriage and empire are a news soap-opera swirl. The poor people truly believe they’ll gain on him someday with a winning lotto ticket.” Quinones uses Donald Trump as a symbol for the epitome of 1990s New York City wealth and success, providing an interesting critique into his role as a government official from the perspective of a reader today.
+At the bottom of the poster, written in larger and bolder letters than in any of the other paragraphs, Quinones articulates the societal climate of 1990s New York. Interestingly, this description does not differ from the perspective of many New Yorkers today. He talks about a city still infatuated with the American dream but still plagued with issues that appear unsolvable to his community. He writes, “Trump’s a material guy with a material girl, his marriage and empire are a news soap-opera swirl. The poor people truly believe they’ll gain on him someday with a winning lotto ticket.” Quinones uses Donald Trump as a symbol for the epitome of 1990s New York City wealth and success, providing an interesting critique into his role as a government official looking from the perspective of an observer today.
 
 ### YOUR HOUSE IS MINE
 
@@ -74,4 +74,6 @@ The compilation of street posters by Bullet Space provided a visible outlet for 
 
 ### Bibliography
 
-* Text 1. _Title_.
+* Bullet Space. _Your House Is Mine_. Bullet Space Gallery, 1988-93, NYU Fales, Downtown Collection, New York City, NY.
+
+* Bullet Space Gallery. "Manifesto." _Bullet Space_, http://bulletspace.org/site/projects/manifesto.
