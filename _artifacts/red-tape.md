@@ -11,9 +11,9 @@ artifact-name: "For the Left Side of Your Brain"
 artifact-date: 1982-01-01
 card-image-url: https://i.imgur.com/wq2Bh3y.jpg
 card-image-text: "Magazine Cover"
-tags: magazine, gentrification, heroin, east village, poems, art
+tags: magazine gentrification heroin east village poems art
 slug: redtapemagazine
-nodes: gentrification, heroin, lgbtq 
+nodes: gentrification heroin lgbtq 
 ---
 
 Blondie. Chernobyl. Shoulder pads. Among others, these cultural icons, events, and movements, helped to define and shape the 1980’s in America. But beyond the staples of mainstream culture, a realm of art and lifestyle teemed in the underground world of alternative and bohemia aesthetics. Red Tape, a magazine that circulated in the East Village from 1980-1992, was one such publication dedicated to showcasing the interesting and absurd art of the East Village at that time, and to having a space for artists, poets, and activists to express their frustrations, loves, and opinions. One issue in particular, published in 1982, entitled “For the Left Side of Your Brain,” does an excellent job of highlighting the creative energy coming out of the Village in the 1980s. The cover of the issue  features a cartoon by Michael Roman, and depicts a graphic female cat waving goodbye to an ambiguous looking man, who is walking down the street past stray trash cans. Within the issue itself, there are dozens of poems, essays, photographs, and comics, that strive to artistically express the moods and issues of that time period.

@@ -14,7 +14,7 @@ wikipedia link: https://en.wikipedia.org/wiki/ACT_UP/
 card-image-url: https://i.imgur.com/WSwZq02.jpg
 card-image-text: "ACT UP Poster"
 nodes: keithHaring lgbtq aids
-tags: ["AIDS","1980s","ACT UP", "LGBT", "LGBTQ", "Keith Haring", "SoHo," "East Village"]
+tags: AIDS 1980s ACT-UP LGBT LGBTQ Keith-Haring SoHo East-Village
 carousel:
  - url: https://i.imgur.com/euoBB9i.jpg
    alt: ACT UP protest
