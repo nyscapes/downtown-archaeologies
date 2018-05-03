@@ -21,6 +21,13 @@
         {% endif %}
 
         <h5 class="card-title">{{ page.name }}</h5>
+        <h6 class="card-subtitle">Related Nodes</h6>
+        <p>
+          {% assign nodeArray = page.nodes | split: " " %}
+          {% for node in nodeArray %}
+          <a href="{{ site.baseurl }}/nodes/{{ node }}"><span class="badge badge-primary">{{ node }}</span></a>&nbsp;
+          {% endfor %}
+        </p>
         <h6 class="card-subtitle">Artifacts</h6>
         <ul>
         {% for artifact in site.artifacts %}
