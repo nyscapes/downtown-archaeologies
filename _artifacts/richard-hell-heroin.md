@@ -13,6 +13,7 @@ card-image-url: "https://i.imgur.com/7yZlOLE.jpg"
 card-image-text: "Heroin Notebook"
 tags: ["heroin", "east village",
 "richard hell", "punk"]
+nodes: heroin east-village
 ---
 
 [Richard Hell](https://en.wikipedia.org/wiki/Richard_Hell) was born Richard Lester Meyers in the late 1940’s in Kentucky. He took on the stage name later on in life, after he had ditched high school for New York in the 1960’s and went on to become one of the major players in the East Village’s punk scene. He played in various bands and clubs throughout New York in the 70’s, 80’s, and early 90’s, but the focus of this post is not on his music career.
