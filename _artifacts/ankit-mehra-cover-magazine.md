@@ -31,3 +31,6 @@ As time went on, Cover Magazine truly became the voice for up-and-coming artists
 For Wright, Cover Magazine provided the framework for his next venture, “Live Mag!” which was founded on the basic idea of going past just print journalism. Wright used the blueprint that made Cover Magazine successful and brought it to his new publication, as used live performance, digital media as well as a print component to publicize the work of poets and promote culture in yet another venture he undertook.
 
 In an era in which New York was undergoing change as gentrification began to set in, Cover Magazine covered those that New York wished too do away with; the struggling artist. Despite being pushed to outer boroughs or even out of the city as whole, Cover Magazine took the stories and made them more than just an article, pushing the envelope for what we perceive to be a heap of modern stars. Cover Magazine was not only ahead of its time, but a representation of what we, as viewers, have become accustomed to associating New York as gritty people willing to work their way from the bottom to top. In some ways, Cover Magazine is an embodiment of New York culture as a whole.
+
+Steve Buscemi photo by David Shankbone
+Webster Hall photo by Troy Tolley
