@@ -1,18 +1,19 @@
 ---
-title: The Nick zedd Papers
+title: The Nick Zedd Papers
 author: pet234
 slug: petersArtifact
 library: fales
 library-collection: "Nick Zedd Papers, 1937-2011 (bulk 1979-2008)."
 box: 1
 folder: 26
-copyright-status: 1
-copyright-holder: "some name"
+copyright-status: 2
+copyright-holder: "Nick Zedd"
 artifact-name: "Nick Zedd Papers 1995"
 artifact-date: 1995-01-01
 card-image-url: "https://i.imgur.com/QK9os7l.jpg"
 card-image-text: "Nick Zedd"
 tags: ["nick zedd", "film", "now wave", "cinema of transgression"]
+nodes: noWave, heroin, performanceArt
 ---
 
 ---
@@ -25,3 +26,8 @@ Although not direct collaborators of Zedd, No Wave cinema directors are highly r
 Despite some success in New York’s underground, he never aspired for anything greater than underground like many No Wave directors did and these notes detailing ideas for future films seem to exemplify that. If he were in interest of more sellable work, he likely would have left out the excessive expletives, and made his own writing much neater. Jim Jarmusch has gone on to work with big name actors like Johnny Depp and Tilda Swinton, with films premiering at film festivals. Nick Zedd has found himself sticking to the underground, moving his operation from Manhattan to Brooklyn and now out of the country to Mexico City, Brooklyn. His resilience and commitment to underground makes him an oddity worth studying.
 
 There are plenty of other underground filmmakers who never saw their work archived in NYU's collection. Because of Zedd's relation to other known filmmakers and relationship with space of downtown New York he is considered exceptional and has work deemed worth saving by NYU.
+
+### Bibliography
+
+* Landau, Peter. “[Pyramid
+  Club](http://nymag.com/listings/bar/pyramid_club/).” _NYMag.com_. Accessed March 28, 2018.

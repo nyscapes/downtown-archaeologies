@@ -12,7 +12,7 @@ card-image-url: https://i.imgur.com/Qc30aU1.jpg
 wikipedia-url: https://en.wikipedia.org/wiki/El_Internacional_(New_York_City)
 card-image-text: "el internacional"
 tags: resturant 1980s-ny tribeca tapas
-nodes: assimilation crossculturalAesthetics ethnicity edgyArt controversy 
+nodes: assimilation 
 ---
 
 When pondering which aspect of downtown New York I am most intrigued by, I could not ignore that food, and the ambiance that it provides, pulls me in the most. My chosen artifact for this project is an edition of the El Internacional Newspaper- a publication for the iconic 1980s Tribeca restaurant.
