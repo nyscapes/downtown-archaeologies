@@ -6,10 +6,11 @@ library-collection: Downtown Flyers and Invitations Collection
 box: 1
 folder: 100
 copyright-status: 1
-copyright-holder:
+copyright-holder: Fales Library and Special Collections
 artifact-name:
 artifact-date:
 card-image-url: "https://i.imgur.com/BJh2gQH.jpg"
+wikipedia-link: https://en.wikipedia.org/wiki/Club_57
 card-image-text: "Club 57"
 card-image-credit: "Beyond My Ken"
 tags: club-57 diy music art artists 1980s
@@ -19,7 +20,7 @@ New York City’s Club 57, located on 57 St. Mark’s Place in between 1st and 2
 
 However, he was not a fan of the customers that would come through and he decided to rebrand it to his liking: the punk and garage band scene. He reopened the club on February 1978 and renamed it Club 57 since it was on 57 St. Mark’s Place. He changed everything inside of the club and instead of a DJ, he chose to get acts from around the area that would fulfill his musical needs. He asked for the help of artists Ann Magnuson, Susan Hannaford, and Tom Scully to run the newly founded venue.
 
-The venue was much more than just a club. It allowed for self-expression from the artists that would partake in the festivities that they hosted throughout its four-year run. Looking through the Downtown Collection at the Fales Library, I found posters and calendars that would show off events such as a science fair, performances, and art galleries. Ann Magnuson said, “At any given time, the club was a dance hall, a screening room, a watering hole, a theater lab, an art gallery, or a self-styled ‘let it all hang out’ encounter group” (Sokol). All this work put together allowed for a dialogue to occur between the artists in the space. In order to bypass liquor laws, the club was turned into a members-only affair, making it only exclusive to the people that wanted to be there for a purpose.![Calendar](https://i.imgur.com/PZCaQoK.jpg)![Science Fair Invitation](https://i.imgur.com/257sSy2.jpg)
+The venue was much more than just a club. It allowed for self-expression from the artists that would partake in the festivities that they hosted throughout its four-year run. Looking through the Downtown Collection at the Fales Library, I found posters and calendars that would show off events such as a science fair, performances, and art galleries. Ann Magnuson said, “At any given time, the club was a dance hall, a screening room, a watering hole, a theater lab, an art gallery, or a self-styled ‘let it all hang out’ encounter group” (Sokol). All this work put together allowed for a dialogue to occur between the artists in the space. In order to bypass liquor laws, the club was turned into a members-only affair, making it only exclusive to the people that wanted to be there for a purpose.![Calendar](https://i.imgur.com/GQ3xtDd.jpg)![Science Fair Invitation](https://i.imgur.com/257sSy2.jpg)
 
 Since there was no way to share an event on the internet and hope for people to show up, the club had a different method to share its events. Artists would create invitations for any event that they wanted to hold in Club 57. For example, in one of the posters held at the Downtown Collection, there is a poster from Keith Haring. This poster is for a Club 57 Invitational and he wanted to host art from the invited artists. The poster was obviously not made on a computer or even a typewriter, but instead it is handwritten. This handwritten invitation would then be Xeroxed and passed around to gain attention for the event. Posters would either be posted around the city or would be personally handed to people by the artists. The Xeroxed posters themselves could be considered art as well, a form of art that Keith Haring used frequently. This was different from the rest of the clubs that were of a higher scale and printed everything to look polished. Club 57’s approach to the club scene was seen as an “anti-” movement, being the opposite of other clubs such as Club 54, The Palladium, Danceteria, and others during that time period (Alden).
   ![Invitation](https://i.imgur.com/0izVBh2.jpg)
