@@ -13,7 +13,7 @@ card-image-url: "https://i.imgur.com/VxRGCbC.jpg"
 card-image-text: "Your House Is Mine"
 card-image-credit: Christiana Collins
 tags: LES downtown graffiti housing healthcare resistance art
-nodes: graffiti aids heroin
+nodes: graffiti aids heroin authenticity
 carousel:
   - url: https://i.imgur.com/j6tty0x.jpg
     alt: "Subway Map Graffiti"
