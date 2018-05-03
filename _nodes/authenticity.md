@@ -6,7 +6,7 @@ wikipedia-link: https://en.wikipedia.org/wiki/Authenticity_in_art#cite_note-FOOT
 card-image-url: https://upload.wikimedia.org/wikipedia/commons/2/2c/David_Bowie_-_TopPop_1974_08.png
 card-image-credit: Beeld En Geluid Wiki
 card-image-text: David Bowie shooting music video for "Rebel Rebel"
-nodes: performanceArt pop-culture terenceSellers
+nodes: performanceArt pop-culture terenceSellers lgbtq
 ---
 
 The nature of authenticity is a concept in psychology, existentialist philosophy, and aesthetics (the arts). Authenticity is how people grapple with representations of the self through different mediums of expression: film, performance art, photography, literature, and even social interactions. Works of [postmodernism](https://en.wikipedia.org/wiki/Postmodernism) often posits a series of questions: what role does authenticity and identity play in art? Is the nature of identity purely performative? What is “real” and what is “fake” and is there ever truly a separation between the two?
