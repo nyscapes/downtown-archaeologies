@@ -1,5 +1,5 @@
 ---
-title: Jesus's Artifact
+title: Terence Sellers
 author: jxs207
 slug: JesusArtifactPost
 library: fales
@@ -8,6 +8,7 @@ box: 12
 artifact-name: "Still from The Movie That Was Never Made"
 artifact-date: 1980-1981
 tags: ["sex", "photograph", "performance art", "terence sellers"]
+nodes: authenticity terenceSellers lgbtq
 ---
 
 Terence Sellers’ eyes are framed with dramatic makeup, her face in concentration— an expression of bloodlust and hunger but with a knowing absurdity. Her body is poised, sitting upright with one hand on her hip and the other hand pulling a string that is operating a rudimentary sexual torture device. The woman in this black and white photograph wears a sparkling long-sleeve blouse adorned with flowers and a deep plunging neck line that runs open all the way down to her waist. To complete the outfit, her legs are decked out in fishnets and short black shorts. The string Sellers is pulling is tied to a sex toy that is threatening to enter the body of a man sitting atop what appears to be a stationary unicycle (similar to a workout bike). The man is wearing a macabre lion mask (perhaps it is a stretch to call it a lion mask but it is the closest resemblance), a polka dot tutu, matching ruffled socks and no shirt. The man grips the sides of his elevated seat in an awkward, uncomfortable-looking position. Terence Sellers sits next to him (albeit lower to the ground), looking powerful, menacing, and bonkers all at the same time.
@@ -26,9 +27,6 @@ In the _Downtown_ book, Irving Sandler states that many postminimal artists—ar
 
 One of the final things that caught my eye within Terence’s archives was a personal journal entry from February 8th, 1975 that stated, “Diaries stink. Who wants words connected to you. Who wants their words remembered. Whoever remembers another’s words is full of garbage.” I found it amusing and absurd, another instance of performativity even in the personal. Therefore, I chose a photo of Sellers to be the spotlight of this project because a picture is worth a thousand words.
 
-Works Cited:
+[^footnote-1]: Taylor, Marvin J. _The Downtown Book: the New York Art Scene, 1974-1984_. Princeton University Press, 2006.
 
-Taylor, Marvin J. _The Downtown Book: the New York Art Scene, 1974-1984_. Princeton University Press, 2006.
-
-Sturken, Marita. The Image as Memorial: Personal Photographs in Cultural Memory,_The
-  Familial Gaze_, edited by Marianne Hirsch. Hanover, NH: University Press of New England, 1999: 178-95.
+[^footnote-2]: Sturken, Marita. The Image as Memorial: Personal Photographs in Cultural Memory,_TheFamilial Gaze_, edited by Marianne Hirsch. Hanover, NH: University Press of New England, 1999: 178-95.

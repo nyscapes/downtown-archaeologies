@@ -1,5 +1,5 @@
 ---
-title: Meryem's Artifact Post
+title: Jane Greer Painting
 author: msh493
 library: fales
 collection:
@@ -15,7 +15,7 @@ library-collection: "A.I.R. Gallery Archives"
 box: 20
 folder: 941
 copyright-status: 2
-nodes: airGallery
+nodes: airGallery gentrification
 ---
 
 This painting was created by Jane Greer and was featured in an exhibition at the A.I.R. gallery between May 27 to June 14, 1997. Although there is little information identifying the title of this painting, it can be inferred that it was part of Jane Greer’s series of cranes as this was one of her common painting practices. This piece appears to be a painting used with acrylic painting and possibly paper cutting, as this was one of Greer’s areas of expertise. The painting is clearly influenced by nature and animals as the bottom features 5 cranes and another crane in a white box. The top left corner also features an animal, which may not be noticed at the first glance. It is difficult to discern what actually the animal is, but it appears to look like a seal. The painting’s main strength is the mastery of color that Greer implements. Looking closely, Greer started by adding black as the background and layering colors on top. Greer uses all of the colors of the rainbow with a main focus on red and yellow. By making black the background, the colors on top look even more vibrant. Another intriguing aspect of this piece is the array of letters of various sizes covering the entire canvas. When I first examine the piece, I assumed Greer created a short poem or essay to accompany her art. However, I could only see a couple of words including the phrase “Just Like This” and the words “Sea” and “Punch”. The rest appears to be random letters strewn together. Because background information of this is piece is unavailable online, it is unknown what these letters really mean. I believe that these letters were created to simply add another visually interesting element to the painting and should be examined as abstract art. Overall, this piece shows many strengths in its composition and choice of color.
@@ -28,7 +28,7 @@ Jane Greer was also influential in contributing to the emerging art movement in 
 
 Greer’s painting was featured in the A.I.R. Gallery, the first all female artists cooperative gallery. A.I.R., a non-profit artist organization, was founded 1972 by a group of female artists and was created to be an exhibition space for female artists in a world that was dominated by male artists. A.I.R. serves as an alternative to mainstream organizations in support of artists who previously had little exposure in the art world. Another interesting aspect of A.I.R. is the fact that it emphasized cooperation and democracy when making important decisions. The board contained mostly female artists and all the members voted in monthly meetings in planning exhibitions, programs and the overall direction of the gallery [fn^4]. As I looked through the A.I.R. archive in Fales, many of the collections contained images of these meetings as female artists were sitting on the floor in a circle during their discussion. This shows how A.I.R. really focused on inclusion and giving a voice to everyone. The A.I.R. gallery represents many of the ideals of feminism in America of the time period. Beginning in the 1970s, second wave feminism emerged and had the main tenet of changing women’s role in society. It urged women to become part of the workforce as an alternative to automatically staying at home. A.I.R. fits into this narrative as it encourage to have a career in the art world, despite the fact that most artists at the time were male. A.I.R. was monumental in creating a space for women to pursue a career in the arts.  
 
-Overall, Jane Greer’s painting not only shows a strong sense of mastery in modern art, but also a represents a rich history in feminism and the culture within its time period. The artist herself was a major contributor to the emerging culture within Soho and an outspoken member of women involved in second-wave feminism. This painting was also showcased in the A.I.R. gallery that really sought to give women the opportunity to pursue a career in the arts. Jane Greer’s piece represents an important intersection between the art world and feminism and Downtown New York in the 1970s.
+Overall, Jane Greer’s painting not only shows a strong sense of mastery in modern art, but also a represents a rich history in feminism and the culture within its time period. The artist herself was a major contributor to the emerging culture within Soho and an outspoken member of women involved in second-wave feminism. This painting was also showcased in the A.I.R. gallery that really sought to give women the opportunity to pursue a career in the arts. Jane Greer’s piece represents an important intersection between the art world, feminism and Downtown New York in the 1970s.
 
 
 ### Bibliography:
