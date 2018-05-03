@@ -21,17 +21,17 @@ carousel:
    cap: ACT UP protesters in 1990s
  - url: https://i.imgur.com/UfgzRXC.jpg
    alt: "NYT Coverage of Wall Street Protest"
-   cap: "The first ACT UP protest, as covered by the NYT"
+   cap: "The first ACT UP protest, as covered by the NYT."
  - url: https://i.imgur.com/Ro0wMpV.jpg
    alt: "Keith Haring ACT UP Art"
-   cap: ACT UP and Keith Haring Art from the Whitney Collection
+   cap: ACT UP and Keith Haring Art from the Whitney Collection.
 ---
 
 The "Downtown Collection" at NYU's Fales Library has a huge archive of papers from Alan Klein. as a prominent member of ACT UP, an AIDS activist group that formed in the 1980s, Klein kept consistent and through documentation of the group's work.
 
-ACT UP formed in 1987. The activist group, which still exists today, first came to national attention after performing an "action" on Wall Street to protest President Ronald Reagan and the "profiteering" pharmaceutical industry. At this point, only one HIV drug had been released. However, the group was angry at the price of the drug. The protest made it into [_The New York Times_](http://actupny.org/documents/1stFlyer.html)
+ACT UP formed in 1987. The activist group, which still exists today, first came to national attention after performing an "action" or protest on Wall Street to protest President Ronald Reagan and the "profiteering" pharmaceutical industry. At this point, only one HIV drug had been released. However, the group was angry at the price of the drug. The protest made it into [_The New York Times_](http://actupny.org/documents/1stFlyer.html)
 
-The [Alan Klein Papers](http://dlib.nyu.edu/findingaids/html/fales/klein/) at Fales spans Klein's involvement in ACT UP, as well as later Queer Nation. The finding says that the collection spans form 1980 to 1995. As well as crossing a number of activist organizations, Klein's papers also span just about the entirety of the AIDS epidemic.
+The [Alan Klein Papers](http://dlib.nyu.edu/findingaids/html/fales/klein/) at Fales span Klein's involvement in ACT UP, as well as later Queer Nation. The finding says that the collection spans form 1980 to 1995. As well as crossing a number of activist organizations, Klein's papers also span just about the entirety of the AIDS epidemic.
 
 The artifact I chose to work with is a flyer from an outreach campaign aimed at women – specifically lesbian and bisexual ones. The flyer, title "AIDS: A Lesbian Issue?" is text heavy.
 
@@ -51,7 +51,7 @@ The flyer does not stop at basic health information. It ties the issue back to t
 
 The flyer uses repetition of phrases – a hallmark of ACT UP. In this particular flyer, the phrase "get involved" is used repeatedly and strategically. It addresses an aspect of shortcoming in research or coverage and urges the reader to (in bold) "get involved!"
 
-ACT UP used repetition to solidify their message in a variety of campaigns. One slogan, which became a signature chant at protests was "ACT UP, Fight Back, Fight AIDS." The phrase "Fight back!" was used in a variety of other chants as well. Another widely used slogan, whcih can be seen in the Keith Haring art and images from the protests was "SILENCE = DEATH."" At protests, these chants were used to solidify the message of the fight against not only AIDS, but the systems of power and bureaucracy in place that were ultimately killing thousands of people across the United States.
+ACT UP used repetition to solidify their message in a variety of campaigns. One slogan, which became a signature chant at protests was "ACT UP, Fight Back, Fight AIDS." The phrase "Fight back!" was used in a variety of other chants as well. Another widely used slogan, which can be seen in the Keith Haring art and images from the protests was "SILENCE = DEATH."" At protests, these chants were used to solidify the message of the fight against not only AIDS, but the systems of power and bureaucracy in place that were ultimately killing thousands of people across the United States.
 
 The tactics of ACT UP were used to effectively garner support and understanding of those suffering and dying form the disease. The activist group increased involvement beyond the gay community and educated those both in and outside the LGBT sphere. The tactics and methods set in place by ACT UP are still used by the group today, as well as huge number of other organizations that take inspiration from them today.
 
