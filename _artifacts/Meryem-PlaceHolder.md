@@ -1,5 +1,5 @@
 ---
-title: Meryem's Artifact Post
+title: Jane Greer Painting
 author: msh493
 library: fales
 collection:
@@ -29,7 +29,7 @@ Jane Greer was also influential in contributing to the emerging art movement in 
 Greer’s painting was featured in the A.I.R. Gallery, the first all female artists cooperative gallery. A.I.R., a non-profit artist organization, was founded 1972 by a group of female artists and was created to be an exhibition space for female artists in a world that was dominated by male artists. A.I.R. serves as an alternative to mainstream organizations in support of artists who previously had little exposure in the art world. Another interesting aspect of A.I.R. is the fact that it emphasized cooperation and democracy when making important decisions. The board contained mostly female artists and all the members voted in monthly meetings in planning exhibitions, programs and the overall direction of the gallery [fn^4]. As I looked through the A.I.R. archive in Fales, many of the collections contained images of these meetings as female artists were sitting on the floor in a circle during their discussion. This shows how A.I.R. really focused on inclusion and giving a voice to everyone. The A.I.R. gallery represents many of the ideals of feminism in America of the time period. Beginning in the 1970s, second wave feminism emerged and had the main tenet of changing women’s role in society. It urged women to become part of the workforce as an alternative to automatically staying at home. A.I.R. fits into this narrative as it encourage to have a career in the art world, despite the fact that most artists at the time were male. A.I.R. was monumental in creating a space for women to pursue a career in the arts.  
 
 Overall, Jane Greer’s painting not only shows a strong sense of mastery in modern art, but also a represents a rich history in feminism and the culture within its time period. The artist herself was a major contributor to the emerging culture within Soho and an outspoken member of women involved in second-wave feminism. This painting was also showcased in the A.I.R. gallery that really sought to give women the opportunity to pursue a career in the arts. Jane Greer’s piece represents an important intersection between the art world, feminism and Downtown New York in the 1970s.
- 
+
 
 ### Bibliography:
 * “A.I.R.: A Short History .” A.I.R.,
