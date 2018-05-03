@@ -1,5 +1,5 @@
 ---
-title: Meryem's Artifact Post
+title: Jane Greer Painting
 author: msh493
 library: fales
 collection:
