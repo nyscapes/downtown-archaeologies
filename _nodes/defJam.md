@@ -1,4 +1,3 @@
-
 ---
 author: mas1342
 title: Def Jam
