@@ -29,7 +29,7 @@ carousel:
 
 The "Downtown Collection" at NYU's Fales Library has a huge archive of papers from Alan Klein. as a prominent member of ACT UP, an AIDS activist group that formed in the 1980s, Klein kept consistent and through documentation of the group's work.
 
-ACT UP formed in 1987. The activist group, which still exists today, first came to national attention after performing an "action" on Wall Street to protest President Ronald Reagan and the "profiteering" pharmaceutical industry. At this point, only one HIV drug had been released. However, the group was angry at the price of the drug. The protest made it into [_The New York Times_](http://actupny.org/documents/1stFlyer.html)
+ACT UP formed in 1987. The activist group, which still exists today, first came to national attention after performing an "action" or protest on Wall Street to protest President Ronald Reagan and the "profiteering" pharmaceutical industry. At this point, only one HIV drug had been released. However, the group was angry at the price of the drug. The protest made it into [_The New York Times_](http://actupny.org/documents/1stFlyer.html)
 
 The [Alan Klein Papers](http://dlib.nyu.edu/findingaids/html/fales/klein/) at Fales spans Klein's involvement in ACT UP, as well as later Queer Nation. The finding says that the collection spans form 1980 to 1995. As well as crossing a number of activist organizations, Klein's papers also span just about the entirety of the AIDS epidemic.
 
