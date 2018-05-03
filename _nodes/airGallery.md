@@ -16,3 +16,7 @@ The gallery opened on September 16, 1972 and showcased ten artists. Many major p
 The main goal of A.I.R. was to show the diversity of artistic talent of women. The creation of the gallery aimed to change the narrative of artists in New York as the commercial gallery scene was often male dominated. A.I.R. sought to shed light on how talented female artists are and encourage women to enter the workforce through art.
 
 The original location of the gallery was 97 Wooster Street in SoHo, but has now moved to 155 Plymouth St in Brooklyn. A.I.R. still conducts exhibitions for female artists and community events. Current exhibitions include Kathleen Schneider's [_Bird Over America_](https://www.airgallery.org/exhibitions/bird-over-america), Dominique Duroseau's [_If only we knew, Nothing's new_](https://www.airgallery.org/exhibitions/if-only-we-knew-nothings-new) and Karen Leo's [_This Is It!_](https://www.airgallery.org/exhibitions/this-is-it).
+
+### Bibliography:
+*“A.I.R. Gallery.” NYC-ARTS, Alliance for the Arts , 28 Feb. 2012, www.nyc-arts.org/organizations/22337/a-i-r-gallery.
+*“History.” A.I.R., A.I.R. Gallery , www.airgallery.org/.
