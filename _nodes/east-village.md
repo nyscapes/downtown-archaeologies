@@ -5,6 +5,7 @@ wikipedia-link: https://en.wikipedia.org/wiki/East_Village,_Manhattan
 card-image-url: https://i.imgur.com/Gw69C4u.jpg
 card-image-credit: The internet
 card-image-text: Stuyvesant Street
+nodes: heroin club57 CBGB nuyoricanPoetsCafe tompkinsSquarePark pyramidClub 
 ---
 
 [Text from Wikipedia, for now.]
