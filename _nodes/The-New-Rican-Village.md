@@ -2,12 +2,13 @@
 title: The New Rican Village
 author: tmp365
 name: The New Rican Village
-coordinates: 40°43′33″N 73°59′02″W
+coordinates: [40.725802, -73.983923]
 official-link: http://loisaida.org/presente-the-young-lords-in-new-york/
 card-image-url:
 card-image-text:
 card-image-credit:
 nodes: tompkinsSquarePark pyramidClub performanceArt
+
 carousel:
   - url: https://i.imgur.com/P1N87LS.jpg
     alt: Dancers
