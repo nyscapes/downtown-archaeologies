@@ -9,6 +9,7 @@ card-image-text:
 card-image-credit:
 nodes: tompkinsSquarePark pyramidClub performanceArt
 
+
 carousel:
   - url: https://i.imgur.com/P1N87LS.jpg
     alt: Dancers

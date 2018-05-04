@@ -11,6 +11,7 @@ artifact-name: "New Rican Village"
 artifact-date: 1978-1980
 card-image-url: https://i.imgur.com/sDTyxFW.jpg
 card-image-text: "Puerto Rican Renaissance"
+nodes: The-New-Rican-Village
 tags: flyer Nuyorican-movement Puerto-Rican-Roots Loisaida-arts Poster Music Dance Theatre
 carousel:
   - url: https://i.imgur.com/LnwlP6k.jpg
