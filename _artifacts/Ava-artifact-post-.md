@@ -12,7 +12,8 @@ artifact-date: (1978–1979)
 card-image-url: https://i.imgur.com/Wawvsj6.jpg
 card-image-text: A Sophistocated Terence Sellers
 card-image-credit: Ava Solina
-tags: art feminism prostitution culture  
+tags: art feminism prostitution culture
+nodes: terenceSellers performanceArt 
 ---
 
 "The Dungeon Series", 1978-1979, Box 1, Folder: 425, Terence Sellers Papers MSS.167, Fales Library & Special Collections, New York University Libraries.     
@@ -49,4 +50,4 @@ In “The Dungeon Series,” Sellers and DeSana created, and thus promoted, art 
 * "[News from the Jackie Factory: A Very Correct Remembrance of Terrence Sellers.](http://www.mothernyc.com/terence/.)" MotherNYC. Accessed March 20, 2018.
 
 * Hudson. "[How New York's Art Scene In The '80s Made NYC What It Is Today.](http://content.hudsonjeans.com/how-new-yorks-art-scene-in-the-80s-made-nyc-what-it-is-today.)" Hudson. Accessed March 20, 2018.
-* "[Jimmy De Sana.](https://www.visualaids.org/artists/detail/jimmy-de-sana.)" Visual AIDS. Accessed March 20, 2018. 
+* "[Jimmy De Sana.](https://www.visualaids.org/artists/detail/jimmy-de-sana.)" Visual AIDS. Accessed March 20, 2018.

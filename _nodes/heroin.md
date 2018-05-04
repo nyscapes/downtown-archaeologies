@@ -2,6 +2,9 @@
 title: Heroin
 name: Heroin
 wikipedia-link: https://en.wikipedia.org/wiki/Heroin
+card-image-url: https://i.imgur.com/jgmW2xe.jpg
+card-image-credit: The internet
+card-image-text: Heroin
 ---
 
 [Text from Wikipedia, for now.]
