@@ -12,7 +12,7 @@ artifact-date: 1978-1980
 card-image-url: https://i.imgur.com/sDTyxFW.jpg
 card-image-text: "Puerto Rican Renaissance"
 nodes: The-New-Rican-Village
-tags: flyer Nuyorican-movement Puerto-Rican-Roots Loisaida-arts Poster Music Dance Theatre
+tags: flyer Nuyorican-movement Puerto-Rican-Roots Loisaida-arts Poster Music Dance Theatre 1970s
 carousel:
   - url: https://i.imgur.com/LnwlP6k.jpg
     alt: "Pamphlet"
