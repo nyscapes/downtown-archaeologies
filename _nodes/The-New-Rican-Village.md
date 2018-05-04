@@ -7,6 +7,7 @@ official-link: http://loisaida.org/presente-the-young-lords-in-new-york/
 card-image-url:
 card-image-text:
 card-image-credit:
+nodes: tompkinsSquarePark pyramidClub performanceArt
 carousel:
   - url: https://i.imgur.com/P1N87LS.jpg
     alt: Dancers
