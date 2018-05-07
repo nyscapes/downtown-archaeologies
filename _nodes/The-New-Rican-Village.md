@@ -27,7 +27,7 @@ the Puerto Rican Arts. Founder of The New Rican Village, Eddie Figueroa
 who was a member of the Young Lords, established this
 cultural arts institution to reflect the aesthetic of Puerto
 Rican roots with a twist of avant-garde. Establishments were important because they set a foundation for
-centers like The New Rican Village that centers around Nuyorican Arts. 
+centers like The New Rican Village that centers around Nuyorican Arts.
 
 It started with one of the Young Lords Party announcements at
 Tompkins Square Park in 1969. To highlight activism by the
@@ -47,7 +47,7 @@ were to fuse the old traditional Puerto Rican roots with the
 new culture of Puerto Ricans in New York City.
 
 The NRV was open from 1976 to 1979, but continued to open in
-other locations. Figueroa bad business decision resulted in the lack of funds for The New Rican Village.
+other locations. Figueroa bad business decisions resulted in the lack of funds for The New Rican Village.
 After a successful run of about four years, Figueroa gave up the space, but refused to sell any
 interest of his ventures to any outside investors. He then continued the
 ultimate goal of the New Rican Village, "A Puerto Rican Renaissance" in other
