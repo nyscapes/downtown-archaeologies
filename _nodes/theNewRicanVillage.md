@@ -4,17 +4,10 @@ author: tmp365
 name: The New Rican Village
 coordinates: [40.725802, -73.983923]
 official-link: http://loisaida.org/presente-the-young-lords-in-new-york/
-card-image-url:
-card-image-text:
+card-image-url: https://i.imgur.com/P1N87LS.jpg
+card-image-text: Dancers @ The New Rican Village
 card-image-credit:
 nodes: tompkinsSquarePark pyramidClub performanceArt
-carousel:
-  - url: https://i.imgur.com/P1N87LS.jpg
-    alt: Dancers
-    cap: "Dancers @ The New Rican Village"
-  - url: https://i.imgur.com/engezPm.jpg
-    alt: "Flyer"
-    cap: "Flyer for Sunday Sessions @ the New Rican Village"
 ---
 
 In what is now the location of the Pyramid Club, The New
