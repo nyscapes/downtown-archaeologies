@@ -27,12 +27,5 @@
       <a href="{{ site.baseurl }}/nodes/{{ node }}"><span class="badge badge-primary">{{ node }}</span></a>&nbsp;
       {% endfor %}
     </p>
-    <h6 class="card-subtitle">Tags</h6>
-    <p>
-      {% for tag in page.tags %}
-        {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a href="{{ site.baseurl }}/tags/{{ tag_name }}"><span class="badge badge-secondary">{{ tag_name }}</span></a>&nbsp;
-      {% endfor %}
-    </p>
   </div>
 </div>
