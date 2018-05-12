@@ -5,7 +5,7 @@
   {% if page.url contains '/nodes' %}
     {% include node_logic.html %}
   {% endif %}
-  {% if coordinates %}
+  {% if page.coordinates %}
     {% include leaflet_styles.html %}
   {% endif %}
   <link rel="stylesheet" href="{{ site.baseurl}}/assets/css/style.css">
