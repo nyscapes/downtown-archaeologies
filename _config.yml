@@ -1,4 +1,5 @@
-baseurl: /downtown-archaeologies
+# baseurl: /downtown-archaeologies
+baseurl: /
 name: Downtown Archæologies
 markdown: kramdown
 include: ["_pages"]
